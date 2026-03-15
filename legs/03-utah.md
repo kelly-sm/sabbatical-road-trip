@@ -56,194 +56,246 @@ Flagged risks: ⚠️ = Celiac concern, ✅ = verified safe
 ## Day 14 — Apr 19: Grand Canyon → Zion
 
 **Drive:** ~2.5 hrs, 175 miles via US-89 North (see Grand Canyon leg for details)
+**Depart by:** 9:00am (from Grand Canyon East Entrance)
+**Arrive camp:** ~1:30–2:00pm
 
-Arrive Zion by early afternoon. Check into Watchman Campground, then:
-- **Canyon Junction Bridge** (5-min walk from camp) — classic reflection shot of The Watchman peak in the Virgin River. Best in late afternoon light.
-- Walk Springdale's main street. Small but lively town.
-- **Dinner in Springdale:**
-  - **Bit & Spur Restaurant & Saloon** ⭐ CELIAC-AWARE (owner-level) — most recommended first night. **The owner has Celiac disease** — all GF-marked menu items are verified celiac-safe, not just preference-GF. Dedicated fryer and prep area. Chips and salsa are celiac-friendly (own dedicated fryer). Upscale Mexican, wood-fired dishes. Reservation recommended.
-  - **Camp Outpost Co. Zion** ✅ CELIAC-AWARE — dedicated fryer and dedicated prep space. More casual, great for a quick meal.
-  - **Thai Sapa** ✅ CELIAC-AWARE — consistently rated top Celiac-safe in Springdale. Good backup.
-  - **Oscar's Cafe** ✅ GF-FRIENDLY — Tex-Mex, staff knowledgeable about Celiac, will accommodate. Most popular casual spot in town.
-  - **GF sorbet shop** ✅ DEDICATED — right outside the Zion park entrance. Made locally in a 100% GF facility. Great for dessert.
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 9:00am | Depart Grand Canyon East Entrance via US-89 North | — |
+| ~10:30am | **Navajo Bridge** (Marble Canyon) — twin bridges over the Colorado River, 467 ft above the water; California condors often perch on the cliffs | 20 min |
+| ~11:15am | **Kanab, UT** — fuel, grocery stock-up (Honey's Marketplace), optional coffee | 30–40 min |
+| ~12:30pm | **Zion East Entrance** — enter park via Zion–Mount Carmel Highway; the switchbacks and tunnel are the intro | — |
+| ~1:30pm | **Watchman Campground** — check in, electric A/B Loop | arrived |
+| ~3:00pm | **Canyon Junction Bridge** — 5-min walk from camp, classic reflection shot of The Watchman in the Virgin River; best in late afternoon light | 30 min |
+| ~4:00pm | Walk Springdale's main street; rent Narrows gear for tomorrow at Zion Outfitter (7 Zion Park Blvd) or Zion Adventure Company | 1 hr |
+| ~7:00pm | Dinner in Springdale | — |
+
+**Stop notes:**
+- **Navajo Bridge:** Free. Two bridges side by side — the old historic span (1929) is a pedestrian walkway. Condors are frequently spotted here in the morning. Quick and worthwhile.
+- **Kanab stock-up:** Honey's Marketplace is the last well-stocked grocery before Zion. Buy van supplies and any Bryce provisions (Bryce has almost no grocery options).
+- **Narrows gear rental — do this tonight:** Zion Outfitter and Zion Adventure Company both rent the full warm-weather package: canyoneering boots + 5mm neoprene socks + walking stick. **~$32–35/person.** Reserving or picking up the evening before avoids morning chaos. Return the gear after hiking.
+
+**Celiac dining — Springdale (first night):**
+- **Bit & Spur Restaurant & Saloon** ⭐ CELIAC-AWARE (owner-level) — most recommended first night. **The owner has Celiac disease** — all GF-marked menu items are verified celiac-safe, not just preference-GF. Dedicated fryer and prep area. Chips and salsa are celiac-friendly. Upscale Mexican, wood-fired dishes. Reservation recommended.
+- **Camp Outpost Co. Zion** ✅ CELIAC-AWARE — dedicated fryer and dedicated prep space. More casual, great for a quick meal.
+- **Thai Sapa** ✅ CELIAC-AWARE — consistently rated top Celiac-safe in Springdale. Good backup.
+- **Oscar's Cafe** ✅ GF-FRIENDLY — Tex-Mex, staff knowledgeable about Celiac. Most popular casual spot in town.
+- **GF sorbet shop** ✅ DEDICATED — right outside the Zion park entrance. Made locally in a 100% GF facility. Great for dessert.
 
 ---
 
 ## Day 15 — Apr 20: Full Day Zion
 
-**Start early — shuttles and trails fill fast. Be at the Visitor Center shuttle stop by 7:30am.**
+**Drive:** None (stay at Watchman CG)
+**Depart by:** 6:45am to reach Canyon Overlook trailhead early
+**Arrive camp:** back at Watchman by ~5:30–6:00pm
 
-### Morning: Canyon Overlook Trail (before the shuttle)
-Do this first — it's accessible without the shuttle (park at the east tunnel lot).
-- 1 mile round trip, 163 ft gain — big payoff: sweeping views down into lower Zion Canyon and the Great Arch. One of the best effort-to-reward hikes in the park. Takes ~45 min.
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 6:45am | Drive to east tunnel parking lot (Canyon Overlook trailhead) — 10 min east of Visitor Center | 10 min |
+| 7:00–8:00am | **Canyon Overlook Trail** — 1.0 mi RT, 157 ft gain. Sweeping views over lower Zion Canyon and the Great Arch. One of the best effort-to-reward hikes in the park. | ~1 hr |
+| 8:00am | Drive back to Visitor Center, board shuttle | 15 min |
+| 8:15am | **Shuttle departs Visitor Center** (first bus 7am; board by 8–8:15 to beat mid-morning waits) | — |
+| ~8:45am | **Ride shuttle to Temple of Sinawava** (Stop 9, last stop) — ~30 min ride | 30 min |
+| 9:00–9:30am | **Riverside Walk** — 2.0 mi paved path along the Virgin River to the Narrows entrance; flat, beautiful, mandatory prelude | 30–40 min |
+| 9:30am–12:30pm | **The Narrows — bottom-up** — wade upstream through the slot canyon. No permit required for this direction. Target: Orderville Canyon junction (~2.5 mi upstream) as turnaround. The undercut walls are up to 2,000 ft high and 20–30 ft apart. | 2.5–3 hrs in/out |
+| ~1:00pm | Catch shuttle back toward Visitor Center; ride to Zion Lodge area | — |
+| 1:00–2:00pm | Lunch — van food, or grab something in Springdale via the town shuttle | 1 hr |
+| ~2:15pm | **Shuttle to Emerald Pools trailhead** (Stop 5, Zion Lodge) | — |
+| 2:30–4:30pm | **Emerald Pools — Lower + Upper loop** — Lower Pool (0.6 mi one-way, easy): hanging gardens and waterfalls in spring. Upper Pool (add 1.0 mi, strenuous): quieter, dramatic ledge above canyon. **Skip the Middle Emerald Pools Trail — closed indefinitely due to landslide damage.** | 2 hrs |
+| ~4:30pm | Shuttle back to Visitor Center / camp | 30 min |
+| ~5:00pm | **Canyon Junction Bridge** — walk from camp for late afternoon light on The Watchman | 30 min |
+| ~7:00pm | Dinner in Springdale | — |
 
-### Mid-Morning: Into the Canyon via Shuttle
-Ride the shuttle to the **Temple of Sinawava** (last stop) and work your way back:
+**Stop notes:**
+- **Canyon Overlook timing:** Do this before the shuttle — it requires a private vehicle to reach the east tunnel lot, and the morning light into the canyon is excellent. No permit, no reservation. Parking is limited; arriving at 6:45–7:00am secures a spot.
+- **Zion shuttle schedule (April 2026):** Runs daily from March 7 through November. First bus leaves Visitor Center at 7:00am. Frequency every 5–10 minutes during peak hours. Free — no reservation needed. Waits become 20–30 minutes after 9am on busy days; board early.
+- **Narrows conditions — check the morning of:** The Virgin River flows from snowmelt in April. The park closes the Narrows when flow exceeds 120–150 cfs for 24+ hours. **Check current CFS at the Visitor Center or on the park conditions page before heading up.** If closed or marginal, substitute Emerald Pools as the primary morning activity. Water is cold (45–55°F) even in April — the neoprene socks you rented last night are worth every penny.
+- **Narrows gear:** Rental warm-weather package (~$32–35/person) includes canyoneering boots, 5mm neoprene socks, and a walking stick. The stick is genuinely useful for balance on slippery river rock. Return after the hike.
+- **Emerald Pools — April is ideal:** Spring runoff creates powerful waterfalls at both Lower and Upper pools. Lower Pool is under a weeping cliff face with hanging ferns — stunning in spring. The Middle Emerald Pools Trail is **closed indefinitely** due to landslide trail damage; the Upper Pool is accessible directly from Lower via a separate steep spur. Verify current status at the Visitor Center on arrival.
+- **Weeping Rock — status uncertain:** The Weeping Rock Trail has been intermittently closed due to rockfall in this geologically unstable section of the canyon. Check conditions at the Visitor Center. If open, it's 0.4 mi RT with 121 ft gain and takes ~20 min — worth adding between Emerald Pools and camp.
 
-**Riverside Walk → The Narrows (bottom-up)**
-- Riverside Walk: 2-mile paved path to the Narrows entrance — easy, beautiful, worth every step.
-- The Narrows: Wade up the Virgin River between 1,000-ft slot canyon walls. No permit needed for bottom-up. Go as far as comfortable (Orderville Canyon junction is a classic turnaround, ~2.5 miles upstream).
-- ⚠️ Check water conditions at the visitor center the morning of. If water is too high/cold, do Emerald Pools instead.
-- Rent neoprene socks/booties in Springdale the evening before.
-
-**Emerald Pools Trail** (alternative or add-on)
-- Lower + Middle pools: ~3 miles round trip, easy-moderate. Hanging gardens, waterfalls dripping from sandstone ledges. Beautiful in spring.
-
-### Afternoon
-- **Weeping Rock** — short (0.4 miles RT) hike to a dripping spring seep with hanging gardens. Easy, good for cooling off.
-- Explore the Zion Human History Museum (free with park entry) for geology and cultural context.
-- Return to camp via shuttle. Walk to Canyon Junction Bridge again for late afternoon light.
-
-### Dining
-- Same Springdale options as the night before, or van cooking.
+**Celiac dining — Springdale (2nd night):**
 - **Zion Pizza & Noodle Co** ✅ CELIAC-AWARE — specifically praised by Celiac travelers; one reviewer called it "the best GF pizza she'd ever had." Dedicated prep for GF orders. Casual, fun.
-- Same Bit & Spur / Camp Outpost / Thai Sapa options as the night before.
+- Same Bit & Spur / Camp Outpost / Thai Sapa / Oscar's options as the night before.
 
 ---
 
 ## Day 16 — Apr 21: Zion → Bryce Canyon
 
-**Drive:** ~1.5 hrs direct (84 miles via UT-9 and US-89). Add 30 min to stop at Red Canyon.
+**Drive:** ~1.5 hrs direct (84 miles via UT-9 and US-89). Add 30–40 min to stop at Red Canyon.
+**Depart by:** 8:30am (after a relaxed morning in Zion)
+**Arrive camp:** ~1:00–1:30pm (leaving full afternoon for Bryce)
 
-### Morning: One More Look at Zion
-If energy allows, **Pa'rus Trail** — easy 3.5-mile paved walk along the Virgin River from the Visitor Center. Peaceful morning alternative before the crowds build. Or just pack up and head out.
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 6:30am | Optional: **Pa'rus Trail** for a quiet last look at Zion — 3.5-mile paved riverside walk from the Visitor Center | 1–1.5 hrs (optional) |
+| 8:30am | Pack up Watchman CG, depart via UT-9 west | — |
+| ~9:30am | **Springdale / Kanab** — fuel and last supplies if needed (Kanab is 20 min past the park) | 20–30 min |
+| ~10:30am | **Red Canyon, Dixie National Forest** — pull off on UT-12 just before Bryce; free, no pass needed | 25–35 min |
+| ~11:15am | Continue east on UT-12 to Bryce Canyon | 20 min |
+| ~11:30am | **Bryce Canyon Visitor Center** — check trail conditions board (critical today — see notes below) | 15 min |
+| ~12:00pm | **Bryce Point** — most dramatic overlook in the park; the full horseshoe of the amphitheater from 8,300 ft | 20 min |
+| ~12:30pm | **Inspiration Point** — upper and lower viewpoints; great light at midday through afternoon | 20 min |
+| ~1:00pm | Check into North Campground or Sunset Campground | 30 min |
+| ~1:30pm | Lunch (van cooking or IDK BBQ) | — |
+| ~2:30pm | **Queens Garden Trail** — out-and-back from Sunrise Point (see closure note) | 1.5–2 hrs |
+| ~4:30pm | **Sunset Point** — return to rim for late afternoon/sunset light; hoodoos turn deep orange-red | until sunset |
+| ~8:00pm | Sunset at Bryce Canyon (~8:00pm in late April) | — |
+| Evening | Van cooking dinner at camp | — |
 
-### En Route Stop: Red Canyon (Dixie National Forest) ⭐
-- Pull off UT-12 before Bryce — free, no park pass needed.
-- The hoodoos here rival early Bryce but with zero crowds.
-- Short **Birdseye Trail** (0.7 miles) or just walk the paved path between the red rock tunnels that the highway passes through.
-- Great photos, 20-minute stop.
+**Stop notes:**
+- **Red Canyon:** Pull off on UT-12 approximately 10 miles before the Bryce entrance. The highway literally passes through two carved red rock tunnels — park at the Red Canyon Visitor Center lot and walk. The **Birdseye Trail** (0.8 mi, moderate) climbs into hoodoos rivaling Bryce but with no crowds and no fee. Even a 20-minute walk through the tunnel area and a few hundred yards into the formations is worth the stop. Free — no pass required.
+- **CRITICAL — Navajo Loop Trail CLOSED as of February 2026:** Multiple mudslides and rockfall on February 26, 2026 closed the entire Navajo Loop Trail, including the Wall Street section and Two Bridges Trail. As of March 2026, **no reopening date has been announced.** Check the Bryce Canyon NPS website or call the Visitor Center before your April 21 arrival. If it reopens by then, the classic Navajo Loop + Queen's Garden combo (3 mi RT, ~520 ft gain) is back on the table. If still closed, **Queen's Garden is accessible as an out-and-back from Sunrise Point** (2 mi RT, 320 ft descent/reascent, ~1.5 hrs) — you still descend into the hoodoos, it's just an out-and-back instead of a loop. Worth doing regardless.
+- **April conditions at 8,000 ft:** Average April low is 29°F; snowstorms are possible and average April snowfall is 8 inches. Trails may be icy, particularly in shaded sections below the rim. **Bring microspikes** — they fold flat in a daypack and are the difference between miserable and excellent in icy conditions. Check conditions daily at the Visitor Center.
+- **Bryce Canyon shuttle (April):** The park shuttle typically begins operating in mid-April. In April, it may not yet be running or may run limited hours — drive the 18-mile scenic road and park at each viewpoint directly if the shuttle isn't operating. The drive itself is excellent.
+- **Rim viewpoints order:** Most efficient loop: Bryce Point (southernmost, most dramatic horseshoe view) → Inspiration Point → Sunset Point → Sunrise Point. About 30–45 minutes driving + stops for all four viewpoints. Do Bryce Point first while fresh.
 
-### Bryce Canyon Arrival: Afternoon
-The rim viewpoints are the main event:
-- **Bryce Point** — most dramatic overlook in the park. The full horseshoe of the amphitheater.
-- **Inspiration Point** — similar angle, great light in late afternoon.
-- **Sunset Point** — best name-to-view ratio. Watch the hoodoos turn red as the light drops.
-
-### Hike: Navajo Loop + Queen's Garden (if time and trail conditions allow)
-- 3 miles round trip, ~521 ft descent (and re-ascent). The classic Bryce combo.
-- Descends through Wall Street (a narrow fin corridor), loops through hoodoo fields, returns up through Queen's Garden.
-- **Check trail conditions:** Some sections may be icy or closed in mid-April at 8,000 ft. The visitor center posts daily conditions.
-
-### Camp: Bryce Canyon
-- **North Campground (Loop A)** — open year-round, first-come-first-served. A few sites have partial rim views. Arrive by 2pm to secure a spot in April.
+**Camp: Bryce Canyon**
+- **North Campground (Loop A)** — open year-round, first-come-first-served. A few sites have partial rim views. Arrive by 1–2pm to secure a spot in April.
 - **Sunset Campground** — reservable on [recreation.gov](https://www.recreation.gov), opens seasonally. Slightly further from the rim but roomier.
 - 🟡 Either reserve Sunset in advance OR plan to arrive early enough for North FCFS.
 
-### Dining
-- **Best plan: van cooking.** Stock up in Springdale or Kanab before arriving. Bryce Canyon dining options are the weakest of the whole trip.
-- **Stone Hearth Grille** ✅ CELIAC-AWARE — best full-service option near Bryce Canyon. Plenty of GF options clearly marked on the menu; staff well-versed in Celiac. Reserve in advance.
+**Celiac dining — Bryce area:**
+- **Best plan: van cooking.** Stock up in Springdale or Kanab before arriving.
+- **Stone Hearth Grille** ✅ CELIAC-AWARE — best full-service option near Bryce Canyon. Reserve in advance.
 - **IDK BBQ** ✅ GF-FRIENDLY — large portion of menu is naturally GF. Good casual backup.
-- **Bryce Canyon Lodge** restaurant — call ahead explicitly about Celiac; limited GF options and protocols vary.
-- ⭐ **If driving up via I-15 or detouring through Parowan (~25 min west of Bryce):** **The Primitive Waffle Cavé** — 88 N Main St, Parowan, UT. DEDICATED 100% GF café — the only one in all of southern Utah. Savory waffle sandwiches, salads, GF scones. Everything made with almond flour, no gluten in the building. Highly praised by Celiac travelers. **Worth a detour.**
+- ⭐ **The Primitive Waffle Cavé** (Parowan, 25 min west on UT-143) — DEDICATED 100% GF café, the only one in southern Utah. Worth a detour if you pass through.
 
-### Cold Weather Note
-April nights at Bryce can drop below freezing. The van is an advantage — close up, run the propane heater if needed, sleep warm.
+**Cold weather note:** April nights at Bryce can drop below freezing. The van is an advantage — close up, run the propane heater if needed, sleep warm.
 
 ---
 
-## Day 17 — Apr 22: Bryce → UT-12 → Capitol Reef → Moab
+## Day 17 — Apr 22: Bryce → UT-12 → Capitol Reef → Dead Horse Point
 
-**Drive:** ~5–6 hrs total with stops. Leave by 7am to make the most of it. This is one of the great driving days of the whole trip.**
+**Drive:** ~290 miles total, 5–6 hrs driving with stops. One of the great driving days of the whole trip.
+**Depart by:** 6:00am to catch sunrise at Bryce first, then make the most of UT-12
+**Arrive camp:** ~6:00–7:00pm at Dead Horse Point (sunset ~8:00pm — time for the rim walk)
 
-### Sunrise at Bryce: First
-- **Sunrise Point** — best spot for sunrise in the park. Hoodoos glow orange-red as the sun hits them. Arrive 20 min before sunrise. Then hit the road.
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 5:55am | Walk to **Sunrise Point** — arrive 20 min before ~6:20am sunrise | 5 min walk |
+| ~6:00–6:45am | **Sunrise at Bryce Canyon** — hoodoos glow orange-red as the sun clears the plateau. The best light of the day. | 45 min |
+| 7:00am | Pack up camp, depart east on UT-12 | — |
+| ~7:20am | **Red Canyon tunnel drive** (if you didn't stop yesterday) — brief pull-off | 10 min |
+| ~8:30am | **Escalante town** — last fuel and coffee on UT-12 for ~60 miles | 15 min |
+| ~9:15am | **Head of the Rocks Overlook** — pull off on the south side of UT-12; panoramic view across the Grand Staircase-Escalante canyon system toward Capitol Reef | 15 min |
+| ~9:45am | **The Hogback** — UT-12 narrows to a knife-edge ridge with 400-ft drop-offs on both sides; no guardrails. Slow down, windows down. ~1 mile long. | 10–15 min slow drive |
+| ~10:00am | **Lower Calf Creek Falls trailhead** — optional: 6.0 mi RT through a redrock canyon to a 126-ft waterfall. Only if you're ahead of schedule and have energy for a 3-hr detour. | 3 hrs if doing it |
+| ~10:30am | **Boulder, UT — Anasazi State Park Museum** — 460 Hwy 12; small but genuinely interesting; 1,200-year-old Ancestral Puebloan village site with artifacts on display | 30–40 min, $5 |
+| ~11:15am | Continue east on UT-12 toward Capitol Reef | 1 hr drive |
+| ~12:15pm | **Capitol Reef Visitor Center** — pick up a park map, get oriented; the Waterpocket Fold explanation here is worth 5 minutes | 10 min |
+| ~12:30pm | **Fruita Orchard walk** — cherry, peach, and pear trees in bloom in late April. Beautiful even without fruit. The orchard is a 5-minute walk from the visitor center. | 20 min |
+| ~12:50pm | **Gifford Homestead** — jams and produce are fine; ⚠️ **pies are wheat-based — not safe for Celiac** | 15 min browse |
+| ~1:15pm | **Hickman Bridge Trail** — 1.75 mi RT, 400 ft gain; moderate. The trail ascends a canyon wash to a 133-ft natural sandstone arch. The Capitol Reef cliffs and Fremont River valley spread out below. | 1.5 hrs |
+| ~2:45pm | **Capitol Reef Scenic Drive** — 9 miles paved from visitor center through the Waterpocket Fold; last 2 miles through Capitol Gorge are the most dramatic (white sandstone walls close in) | 1 hr with stops |
+| ~4:00pm | Lunch — van cooking or **La Cueva Restaurante Mexicano** ✅ in Torrey (call ahead, corn-based Mexican, knowledgeable about Celiac) | 30–45 min |
+| ~4:30pm | Depart Torrey, UT-24 east then US-191 north toward Moab | 2 hrs |
+| ~6:30pm | **Dead Horse Point State Park** — Wingate or Kayenta Campground, check in | arrived |
+| ~7:00pm | Walk to the main overlook for sunset (Colorado River gorge, 2,000 ft below) | 45 min |
+| ~8:00pm | Van cooking dinner at camp | — |
 
-### UT-12: One of America's Great Scenic Highways ⭐⭐
-UT-12 from Bryce Canyon to Torrey (Capitol Reef gateway) is consistently ranked among the most scenic roads in the country. Don't rush it.
-
-Key stops eastbound:
-- **Head of the Rocks Overlook** — panoramic view across Grand Staircase-Escalante canyons. Pull off and take it in.
-- **Hogback** — a narrow ridge road where UT-12 runs along a knife-edge with canyon drop-offs on both sides. Dramatic.
-- **Calf Creek Falls** (Grand Staircase-Escalante) — optional but excellent: 5.5 miles RT through a canyon to a 126-ft waterfall. Allow 3 hrs. Only do this if you leave Bryce very early.
-- **Boulder, UT / Anasazi State Park Museum** — small but genuinely interesting museum of Ancestral Puebloan artifacts discovered nearby. 30-min stop, $5 entry.
-
-### Capitol Reef: Drive-Through ⭐
-Capitol Reef doesn't need a full day to experience its best features — the scenic drive does the heavy lifting.
-
-- **Capitol Reef Scenic Drive** (9 miles paved from visitor center) — passes through the Waterpocket Fold, a 100-mile warp in the earth's crust. The last 2 miles through Capitol Gorge are the most spectacular — white sandstone walls close in around you.
-- **Hickman Bridge Trail** — 1.75 miles RT to a natural sandstone arch. Easy-moderate, 400 ft gain. Worth the 1.5-hour stop.
-- **Gifford Homestead** — historic farmhouse selling homemade pies, jams, and produce (cash/card). Their pies are legendary. ⚠️ **Celiac note:** Pies are wheat-based — not safe. Skip the pie; the jams and fresh produce are fine to grab.
-- **La Cueva Restaurante Mexicano** ✅ CELIAC-AWARE — best Celiac option in Torrey. The waiter is exceptionally knowledgeable about Celiac and can identify which items have zero cross-contamination risk. Corn-based Mexican menu. Call ahead.
-- **Broken Spur Inn & Steakhouse** ✅ GF-FRIENDLY — knowledgeable staff, multiple GF options available. Good fallback in Torrey.
-- **The Orchard** — Capitol Reef has a working pioneer fruit orchard (cherries, apricots, peaches). In April it may be in bloom — beautiful backdrop even if fruit isn't ripe.
-
-### Arrive Moab: Late Afternoon
-~2.5 hours from Capitol Reef to Moab via UT-24 and US-191.
-
-### Camp: Dead Horse Point State Park ⭐⭐
-- 35 miles from Moab (40 min north then west on UT-313).
-- **Wingate Campground** or **Kayenta Campground** — both have some sites with electrical hookups. No showers. Bring all water (nearest services 35 miles in Moab).
-- The rim is 5-min walk from camp. Sunset over the Colorado River gorge (2,000 ft below) is stunning.
-- 🔴 **Reserve on [reserveamerica.com](https://www.reserveamerica.com)** — booked solid March-November. Reserve up to 4 months in advance.
-
-### Sunset at Dead Horse Point
-Walk to the main overlook before dinner. The Colorado River makes a horseshoe bend below you; the canyon walls turn deep red. One of the top 5 views of the entire trip.
+**Stop notes:**
+- **Bryce sunrise timing:** Sunrise on April 22 is approximately 6:20am. Arrive at Sunrise Point at 6:00am — the hoodoos start glowing 5–10 minutes before the sun clears the plateau. This is worth the early alarm more than almost any other moment on the trip.
+- **UT-12 approach:** Drive eastbound (Bryce toward Torrey). The sequence — Red Canyon → Escalante → Hogback → Boulder → Capitol Reef — is the correct direction for this itinerary. Allow yourself to stop; this is not a road to rush.
+- **Head of the Rocks Overlook:** Mile marker 65 on UT-12. The pullout is on the south side. The panorama looks north and east across a canyon maze toward Capitol Reef — you can see 50+ miles on a clear day.
+- **The Hogback:** One of the most memorable road sections in the American West. The paved highway runs along the crest of a narrow sandstone ridge with no guardrails. Drive slowly (15–20 mph) and enjoy. It's about 1 mile long.
+- **Calf Creek Falls:** Only do this if you departed Bryce by 5:30am or are comfortable with a long day. The 6-mile round trip is excellent — the canyon is beautiful, the waterfall is 126 ft — but it adds 3 hours and this is already a big driving day.
+- **Capitol Reef orchards in April:** Peaches and pears are typically in bloom April 1–May. Cherries bloom late March to mid-April. You'll likely see blossoms — white and pink — across the orchard. No fruit yet (June–September is picking season), but the blooming orchard against red cliffs is worth a short walk.
+- **Gifford Homestead:** The pies are a beloved Capitol Reef tradition. They are wheat-based and not safe for Celiac. The jams, fruit preserves, and fresh produce are fine. Skip the pie counter.
+- **Dead Horse Point — arrive with food:** The nearest services are 35 miles away in Moab. No camp store, no showers. Bring all water and provisions for the night.
+- **Dead Horse Point sunset:** Walk to the main overlook ~30 min before sunset. The Colorado River makes a full horseshoe bend 2,000 ft below; canyon walls turn crimson as the sun drops. One of the top five views of the entire trip.
 
 ---
 
 ## Day 18 — Apr 23: Canyonlands + Arches + Moab
 
-Dead Horse Point and Canyonlands Island in the Sky are on the same plateau — do them together in the morning before driving into Arches.
+**Drive:** ~65 miles total (Dead Horse Point → Mesa Arch → Grand View → Arches → Moab → back to Dead Horse Point)
+**Depart by:** 5:15am for Mesa Arch sunrise
+**Arrive back at camp:** ~8:30–9:00pm
 
-### Dawn: Mesa Arch, Canyonlands (Island in the Sky) ⭐⭐
-- 30 min from Dead Horse Point.
-- **Mesa Arch Trail**: 0.5 miles RT, flat. The arch frames the canyon 1,000 ft below — at sunrise the underside of the arch glows orange-red. One of the most photographed moments in Utah.
-- **Arrive 30-45 min before sunrise** and claim a spot at the arch. It fills fast even in April.
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 5:15am | Depart Dead Horse Point in the dark — headlamps for the parking lot | — |
+| ~5:30am | **Mesa Arch trailhead parking** (Canyonlands Island in the Sky) — 15 min from DHP via UT-313 | — |
+| 5:30–6:00am | Walk to Mesa Arch (0.5 mi RT, flat, 15 min each way) in the dark with headlamps; claim a position at the arch | 30 min |
+| ~6:16am | **Mesa Arch sunrise** — the underside of the arch glows orange-red as the first light hits; the canyon 1,000 ft below fills with shadow and color | 30–45 min at arch |
+| ~7:00am | Drive south deeper into Island in the Sky | 10 min |
+| 7:15–8:45am | **White Rim Overlook Trail** — 1.8 mi RT, flat to moderate, 1.5 hrs; less crowded than Grand View, dramatic 300-degree rim view over Monument Basin | 1.5 hrs |
+| ~9:00am | **Grand View Point Trail** — 1.8 mi RT, minimal elevation change, 1.5 hrs; the widest canyon vista in Utah — the Colorado and Green Rivers visible far below in a carved labyrinth | 1.5 hrs |
+| ~10:30am | Drive back north, exit Canyonlands, head to Arches (~35 min) | 35 min |
+| ~11:15am | **Arches National Park entrance** — show America the Beautiful pass; no timed entry in 2026 | — |
+| ~11:20am | **Balanced Rock** — roadside pull-off, 0.3 mi loop walk around the formation; 5–10 min | 15 min |
+| ~11:45am | **Windows Section** — North Window, South Window, and Turret Arch in a 1.1-mile loop; 45–60 min; the best bang-for-buck hike in the park | 1 hr |
+| ~12:45pm | Drive to Devils Garden (18 miles north, 20 min) | 20 min |
+| ~1:10pm | **Landscape Arch** (Devils Garden) — 1.6 mi RT, flat, easy; the longest natural arch in the world at 306 ft; go early — parking fills by 9am, but early afternoon is manageable | 1 hr |
+| ~2:15pm | Drive back south to Delicate Arch trailhead (20 min) | 20 min |
+| ~2:30pm | Lunch break at Delicate Arch trailhead — eat before the hike | 20 min |
+| ~3:00pm | **Delicate Arch** — 3.0 mi RT, 480 ft gain, moderate-strenuous; the last 0.5 mi traverses exposed slickrock ledges. Arrive at the arch ~1.5 hrs before sunset for best light on the front face | 2.5–3 hrs |
+| ~6:00pm | Drive to Moab for dinner (15 min) | — |
+| ~6:15–7:30pm | **Dinner in Moab** — Singha Thai (92 E Center St, dinner 5–9pm) or 98 Center (farm-to-table, dedicated fryer) | 1–1.5 hrs |
+| ~8:00pm | Stock up at City Market (GF section) for return drive provisions | 30 min |
+| ~8:45pm | Drive back to Dead Horse Point (40 min) | — |
+| ~9:30pm | Return to camp | arrived |
 
-### Morning: Canyonlands
-- **Grand View Point Trail** — 2 miles RT from the road's end. The biggest, widest canyon vista in Utah. The Colorado and Green Rivers have carved a labyrinth visible from here.
-- **White Rim Overlook** — 1.8 miles RT, moderate. Less crowded than Grand View, equally dramatic.
-
-### Afternoon: Arches National Park
-No timed entry in 2026 — drive straight in. Still expect crowds at popular spots; go early or late afternoon.
-
-**Must-see stops:**
-- **Balanced Rock** — roadside, 5-min walk. Iconic.
-- **Windows Section** — North Window, South Window, and Turret Arch in one easy 1-mile loop. The best single stop in the park for the effort.
-- **Landscape Arch** (Devils Garden) — 1.6 miles RT to the world's longest natural arch (306 ft). Flat trail, easy. Go early — the Devils Garden trailhead parking fills completely by 9am.
-- **Delicate Arch** — 3 miles RT, 480 ft gain. The iconic Utah arch. Steep and exposed but moderate overall. Best in late afternoon when the light hits the front face. Parking fills by 8-9am — either go very early (6am) or arrive late afternoon (~4pm).
-
-### Evening: Moab Town
-**Celiac dining in Moab:**
-- **Sweet Cravings Bakery + Bistro** ✅ CELIAC-AWARE — 397 N Main St, (435) 259-8983. The most consistently praised Celiac option in Moab. Staff proactively explains cross-contamination precautions before you even ask. GF sandwiches, breakfast, lunch, desserts including macarons. ⚠️ **One caveat:** a reviewer noted that GF and non-GF baked goods are sometimes prepared in the same oven — call ahead and ask specifically about the oven situation before ordering baked goods.
-- **98 Center** ✅ CELIAC-AWARE — farm-to-table, upscale, **dedicated fryer**. The best dinner experience in Moab for Celiac.
-- **Sabaku Sushi** ✅ CELIAC-AWARE — **dedicated fryer**, naturally GF-heavy Japanese menu (rice, sashimi, GF rolls). Good evening option.
-- **Singha Thai Cuisine** ✅ CELIAC-AWARE — consistently rated most Celiac-friendly in Moab by the community.
-- **Wrap it Up Mediterranean** ✅ CELIAC-AWARE — **dedicated fryer**, naturally GF Mediterranean options.
-- **Quesadilla Mobilla** ✅ — food truck, GF corn tortilla tacos. Reliable and casual.
-- **City Market** — Moab's main grocery, solid GF section. Stock up for the return drive.
-
-### Night: BLM Dispersed or Dead Horse Point (2nd night)
-Two options:
-1. **Dead Horse Point (2nd night)** — if you reserved 2 consecutive nights, you're set. Drive back out for the night.
-2. **BLM Dispersed near Moab** — free, no reservation. Good options:
-   - **Yellow Circle Road** (11 miles south of Moab off US-191) — flat, accessible for a Transit van, open desert and red rock views.
-   - **Klondike Bluffs area** (20 miles north) — ⚠️ **Update:** Free dispersed camping here no longer exists. The BLM formalized this area into **North Klondike Campground** (fee-based, $20/night FCFS, pay via recreation.gov QR code on-site). Mountain bike trail access, wide desert views.
-   - ⚠️ Transit is 2WD — stick to the first few pullouts on any BLM road. These roads can be impassable after rain. Check conditions.
-   - Within ~20 miles of Moab, camping must be in designated spots — BLM has a map at their Moab office (82 E Dogwood Ave).
+**Stop notes:**
+- **Mesa Arch — arrive by 5:30am:** Sunrise on April 23 is approximately 6:16am. The arch fills fast — by 5:45am there are often 20–30 photographers already there. Arrive by 5:30am to get a front-row position at the arch railing. The hike is 0.5 mi RT and completely flat; a headlamp is all you need. When the sun clears the horizon, it hits the underside of the arch for about 10–15 minutes of peak orange glow.
+- **Mesa Arch to Grand View Point:** The two Canyonlands viewpoints are 14 miles apart on the same road. After Mesa Arch, drive to the end of the road for Grand View Point. White Rim Overlook is about 1 mile before Grand View, on the right — do it first, then continue to the road end.
+- **Arches timed entry dropped for 2026:** Confirmed February 18, 2026. Show the America the Beautiful pass at the entrance — no reservation or timed entry ticket needed. Still expect crowds at Delicate Arch and Devils Garden.
+- **Delicate Arch timing:** The iconic view of the arch is from the front (east). The late afternoon sun hits the front face starting around 4–5pm, building through golden hour. Plan to arrive at the arch 1.5–2 hours before sunset (~6:15–6:30pm arrival at the arch) for peak light. The parking lot is manageable in mid-to-late afternoon.
+- **Celiac dining in Moab:**
+  - **Singha Thai Cuisine** ✅ CELIAC-AWARE — 92 E Center St. Open Mon–Wed 11am–3pm, 5–9pm. Consistently rated most Celiac-friendly in Moab. Staff verbally confirms GF orders. Dinner is the best option on this schedule.
+  - **98 Center** ✅ CELIAC-AWARE — farm-to-table, upscale, dedicated fryer. Best dinner experience in Moab for Celiac. Call ahead.
+  - **Sabaku Sushi** ✅ CELIAC-AWARE — dedicated fryer, GF-heavy Japanese menu. Good alternative.
+- **City Market stock-up:** Moab's main grocery at 425 S Main St. Solid GF section. Stock up for the Valley of Fire drive tomorrow — there's no good GF grocery between Moab and Las Vegas.
+- **Drive back to Dead Horse Point:** 40 min from Moab via US-191 north and UT-313 west. Arriving at camp by 9:30pm is realistic if dinner ends by 8pm.
 
 ---
 
-## Day 24 — Apr 24: Depart for Seattle (Day 1 of Return)
+## Day 19 — Apr 24: Moab → Valley of Fire State Park
 
-Leave Moab early. The return to Seattle is ~14-15 hours — split over 2 days:
+**Drive:** ~440 miles, ~6 hrs driving (US-191 south → I-70 west → I-15 south → NV-169 east to Valley of Fire)
+**Depart by:** 6:00am to arrive Valley of Fire with time for hikes and golden hour
+**Arrive camp:** ~3:30–4:00pm (sunset ~7:30pm — leaves 3+ hrs for hiking)
 
-**Route: US-191 North → I-70 West → I-15 North → I-84 West → I-84/I-82 → I-90 → Seattle**
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 6:00am | Depart Dead Horse Point, head to Moab via UT-313 | 40 min |
+| ~6:45am | **Moab fuel stop** — last fuel before Green River (60 miles) | 10 min |
+| ~7:00am | I-70 west from Moab | — |
+| ~8:30am | **Green River, UT** — brief break, fuel if needed | 15 min |
+| ~10:00am | **Salina, UT** — I-70/US-50 junction; rejoin I-15 south | — |
+| ~11:00am | **Cedar City / St. George corridor** (I-15 south through the red rock gateway to Nevada) | — |
+| ~12:00–1:00pm | **St. George, UT lunch stop** — good Celiac options (see notes); fuel | 45–60 min |
+| ~1:45pm | Continue south on I-15 into Nevada | — |
+| ~2:30pm | **Exit I-15 at Logandale, take NV-169 east** toward Valley of Fire | 20 min |
+| ~3:00pm | **Valley of Fire State Park entrance** — pay day use fee ($15/vehicle non-NV residents); proceed to campground | — |
+| ~3:30pm | **Atlatl Rock Campground or Arch Rock Campground** — check in | arrived |
+| ~3:45pm | **Atlatl Rock petroglyphs** — 5-min walk up a metal staircase to a sandstone panel covered in 4,000-year-old carvings (atlatl spear-throwing tools, humans, animals). Side-lighting at this hour reveals the carvings beautifully. | 20–30 min |
+| ~4:15pm | **Fire Wave Trail** — 1.5 mi RT, 60 ft gain; follow cairns across slickrock to a swirling pink-and-red rock formation that looks like a frozen wave. No permit required. | ~1 hr |
+| ~5:15pm | **White Domes Trail** — 1.1-mile loop through a slot canyon, past a ruined 1960s movie set, between towering white and red sandstone domes | 45 min |
+| ~6:15pm | Drive to **Rainbow Vista** overlook — west-facing, catches last light across the full valley | 15 min drive |
+| ~6:30–7:30pm | **Golden hour at Valley of Fire** — the red Aztec sandstone glows with an almost inner fire at this hour; Rainbow Vista is the best vantage point | until sunset |
+| ~7:30pm | Return to camp, van cooking dinner | — |
 
-Or simpler: **US-191 North → I-15 North → I-84 West → I-5 North → Seattle**
+**Stop notes:**
+- **Departure timing:** Leaving Dead Horse Point by 6am puts you in Valley of Fire by 3–3:30pm with over 4 hours before sunset. The drive is long (440 miles) but mostly uncomplicated freeway. I-70 west from Moab is one of the most scenic freeway stretches in the country — red rock and desert plateau for the first 60 miles.
+- **St. George lunch — Celiac options:** St. George is a decent 30-minute detour off I-15 with several GF-aware restaurants. Best options:
+  - **Painted Pony** ✅ GF-FRIENDLY — upscale New American, multiple GF-marked menu items, knowledgeable staff. Best sit-down option.
+  - **Bear Paw Cafe** ✅ GF-FRIENDLY — breakfast/lunch, multiple GF options, positive Celiac reports.
+  - Alternatively, van lunch on the road and skip the St. George detour to arrive earlier.
+- **Valley of Fire in April:** April is peak season — temperatures 75–90°F during the day, cool evenings. All trails open (the summer closure is June 1 – October 1). April golden hour is spectacular here. The red Aztec sandstone is Jurassic age (150–180 million years old) and oxidized iron gives it the vivid color.
+- **Fire Wave Trail:** No permit, no reservation required. The trailhead is signed off the White Domes Road, ~5 miles east of the visitor center. 1.5 miles RT, ~1 hour, minimal elevation change. Navigate by cairns on open slickrock. The wave formation is a swirling exposure of contrasting pink and red sandstone layers.
+- **White Domes Trail:** The 1.1-mile loop passes through a short slot canyon, by the remains of a 1966 movie set, and between the white and red sandstone domes that give the area its name. 45 min, easy.
+- **Atlatl Rock:** A metal staircase provides access to a platform at the base of the carved face. April afternoon side-lighting is ideal for seeing the petroglyphs clearly. Ranger-led programs at this site happen throughout April (free with park entry).
+- **Rainbow Vista:** The best panoramic overlook in the park for golden hour and sunset. West-facing, wide open. The whole valley turns amber and crimson.
+- **Camp reservations:** All Valley of Fire campsites are reservable at reserveamerica.com (Nevada State Parks). 🟡 Reserve in advance — April fills quickly.
 
-**Day 1 target: Twin Falls, ID or Boise, ID** (~7-9 hrs from Moab)
-- Stop in **Salt Lake City** for fuel and a proper meal. SLC has strong Celiac options:
-  - **Taqueria 27** ⭐ CELIAC-AWARE — dedicated kitchen space for GF prep, dedicated fryer, trained staff. Upscale Mexican. Highly vetted by the Celiac community.
-  - **Arempas** ⭐ CELIAC-AWARE — Venezuelan arepas, dedicated fryer, nearly the entire menu is GF. Excellent and safe.
-  - **Zest Kitchen & Bar** — 275 S 200W. Was a 100% dedicated GF vegan restaurant but changed ownership in 2025; recent reviews raised questions about maintained standards. **Call ahead and explicitly ask about Celiac protocols** before relying on it.
-  - **Communal** — well-regarded for GF accommodation; speak to them directly about Celiac when reserving.
-- **Twin Falls**: Shoshone Falls (called "Niagara of the West") is worth a 20-minute stop if you pass through. Free in late afternoon.
-- Camp near Boise or Twin Falls — many established campgrounds off I-84 or just a quiet BLM pull-off.
+---
 
-**Day 2 (Apr 25): Twin Falls/Boise → Seattle** (~6-7 hrs)
-Home well before dinner. Trip complete.
+## Day 19 continues → Apr 25: Valley of Fire → Yosemite (Return Leg begins)
+
+Valley of Fire is the handoff point from this Utah leg to the return leg (Leg 4). See `legs/04-return.md` for the full drive from Valley of Fire to Yosemite (~420 miles, ~6.5 hrs via I-15 and CA-99/CA-41) and on to Seattle via Crater Lake.
 
 ---
 

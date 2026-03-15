@@ -32,134 +32,166 @@ Seattle, WA  [Home — Apr 28]
 
 ---
 
-## Day 19 — Apr 24: Moab → Valley of Fire State Park, NV
+## Day-by-Day
 
-**Drive:** ~440 miles / ~6 hours via US-191 north → I-70 west → I-15 south
+### Day 19 — Apr 24: Moab → Valley of Fire State Park, NV
+**Drive:** ~440 miles / ~6.5 hours via US-191 north → I-70 west → I-15 south
+**Depart by:** 7:30am
+**Arrive camp:** ~4:30pm (time for an afternoon hike before golden hour)
 
-### Route
-- **Moab → Salina, UT (I-70 west):** ~150 miles, ~2 hrs. Simple highway drive through the San Rafael Swell — dramatic red rock canyon country, surprisingly beautiful for an interstate. Green River, UT is a good fuel stop.
-- **Salina → St. George, UT (I-15 south):** ~200 miles, ~2.5 hrs. Passes through some gorgeous canyon country around Beaver and Cedar City.
-- **St. George → Valley of Fire:** ~90 miles, ~1.5 hrs via I-15 south into Nevada then exit toward the park.
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 7:30am | Depart Moab | — |
+| ~8:15am | **Green River, UT** — fuel and coffee (last easy stop before highway) | 15 min |
+| ~9:30am | I-70 through San Rafael Swell — scenic highway driving, no stop needed | — |
+| ~10:00am | **Salina, UT** — optional fuel stop | 10 min |
+| ~12:00pm | **Cedar City, UT** — lunch stop (Harmon's or Natural Grocers — stock GF van food here) | 45 min |
+| ~1:30pm | **St. George, UT** — fuel if needed; last Whole Foods before Valley of Fire | 20 min |
+| ~2:30pm | Enter Valley of Fire via NV-169 — pay $15/vehicle entrance fee | — |
+| ~2:45pm | **Atlatl Rock** — ancient petroglyphs, 250-ft staircase to viewing platform | 30 min |
+| ~3:30pm | **Mouse's Tank / Petroglyph Canyon Trail** — 0.75 mi through a canyon lined with petroglyphs | 45 min |
+| ~4:30pm | **Check into Atlatl Rock or Arch Rock Campground** — set up | 30 min |
+| ~5:30pm | **White Domes Loop** — 1.1-mile loop through slot canyon and fire-red formations | 45–60 min |
+| ~6:45pm | Return to camp for dinner (van cooking) | — |
+| ~7:15pm | **Golden hour at camp or Rainbow Vista** — formations glow orange-red at sunset (~7:20pm) | 45 min |
 
-### Valley of Fire State Park ⭐
-Nevada's oldest state park and one of its most spectacular — far less visited than the Utah parks you've just left. The Aztec sandstone here (600 million years old) is older than anything in Utah and a different palette: fire-red, orange, and purple formations.
-
-- **Atlatl Rock** — ancient petroglyph panels carved into a red sandstone wall. Easy 0.25-mile walk.
-- **White Domes Loop** — 1.1 miles through a slot canyon and past dramatic white and red formations. Best easy hike in the park.
-- **Fire Wave** — 1.5 miles RT to a swirling red-and-white sandstone formation (similar to The Wave in Arizona, far fewer crowds).
-- **Rainbow Vista** — panoramic overlook over multicolored canyon country. Short walk from the pullout.
-
-**Camp: Atlatl Rock Campground or Arch Rock Campground**
-- 45 and 29 sites respectively. Both have water, flush toilets, fire rings. Electric hookups at Atlatl Rock (you don't need them but useful if sites with shade/views go first).
-- 🟡 Reserve on [nvstateparks.reserveamerica.com](https://www.reserveamerica.com) — opens 30 days in advance. Book mid-March.
-
-**Sunset here:** The red formations glow intensely at golden hour — one of the best light shows of the trip.
-
-**GF dining:** Very limited near Valley of Fire. Stock up in St. George (Harmon's grocery, Whole Foods) or pack van provisions for dinner and breakfast. The park has no food service.
+**Stop notes:**
+- **Atlatl Rock:** A metal staircase leads up to a viewing platform directly in front of a large petroglyph panel — Ancestral Puebloan carvings including the atlatl (spear-thrower) that gives the rock its name. Early afternoon light is fine here; the petroglyphs face west and catch afternoon sun well. 5–10 min walk from the parking lot.
+- **Mouse's Tank Trail:** A flat, sandy canyon trail (~0.75 miles one-way) with petroglyphs visible on canyon walls throughout. One of the best petroglyph sites in the American Southwest. Return the same way. Allow 45 min total. Parking at the Rainbow Visitor Center, same lot.
+- **White Domes Loop:** 1.1 miles, easy-moderate, ~150 ft elevation change. The loop passes through a colorful slot canyon, past remnants of a 1966 movie set, and through dramatic white and red sandstone formations. The far end of the park — 8 miles from the west entrance. Do this in the late afternoon; the low sun on the white formations in the last 2 hours of daylight is exceptional. No permit required — Fire Wave also has no permit/lottery (unlike Arizona's The Wave). Fire Wave is nearby if energy allows: 1.5 miles RT from the same parking area.
+- **Golden hour:** Sunset in late April is around 7:20pm Pacific. The Arch Rock area and Rainbow Vista pullout both face west and give outstanding light on the red formations. One of the most photogenic 30 minutes of the whole trip.
+- **April conditions:** Expect 70–85°F in April — comfortable for all-day hiking. Avoid midday sun exposure (11am–3pm) if possible, though April is far cooler than summer. The park closes Fire Wave May 15 through September 30 for heat safety; you're visiting in the safe window.
+- **GF dining:** No food service in the park. Stock GF provisions in Cedar City (Harmon's Grocery, 600 S Main St) or St. George (Harmon's, Whole Foods on Bluff St) — both are on-route. Van cooking for dinner.
 
 ---
 
-## Day 20 — Apr 25: Valley of Fire → Yosemite Valley
-
+### Day 20 — Apr 25: Valley of Fire → Yosemite Valley
 **Drive:** ~420 miles / ~6.5 hours via I-15 → CA-58 → CA-99 → CA-41
+**Depart by:** 7:00am — long drive day; early start allows an afternoon arrival and time for Bridalveil Fall
+**Arrive camp:** ~2:30–3:00pm
 
-### Route (Tioga Pass is closed — use the southern entrance)
-- **Valley of Fire → Barstow, CA (I-15 west):** ~160 miles, ~2 hrs
-- **Barstow → Bakersfield (CA-58 west):** ~120 miles, ~1.75 hrs. Dramatic Tehachapi Mountains crossing.
-- **Bakersfield → Fresno (CA-99 north):** ~100 miles, ~1.25 hrs. Central Valley farmland.
-- **Fresno → Yosemite Valley (CA-41 north):** ~65 miles, ~1.5 hrs. Enter via the Wawona/South Entrance — open year-round. **This is the route when Tioga is closed.**
-- CA-41 passes through the Wawona Tunnel — and when you exit the other side: **Tunnel View**, one of the most iconic vistas in America. El Capitan on the left, Half Dome at center, Bridalveil Fall on the right. Pull over for the arrival moment.
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 7:00am | Depart Valley of Fire via NV-169 → I-15 south | — |
+| ~9:00am | **Barstow, CA** — fuel and coffee (I-15/CA-58 junction) | 15 min |
+| ~9:15am | Take **CA-58 west** toward Bakersfield | — |
+| ~11:00am | **Tehachapi Pass** — dramatic mountain crossing through wind turbine farms | (driving) |
+| ~11:30am | **Bakersfield** — lunch stop; grab GF provisions at Whole Foods (760 Rosedale Hwy) | 30–40 min |
+| ~12:15pm | **CA-99 north** toward Fresno | — |
+| ~1:30pm | **Fresno** — fuel if needed | 10 min |
+| ~1:40pm | **CA-41 north** toward Yosemite — winding mountain road begins | — |
+| ~2:30pm | Enter Yosemite via **South/Wawona Entrance** — America the Beautiful pass | — |
+| ~3:15pm | Exit **Wawona Tunnel → Tunnel View** — pull over immediately | 20–30 min |
+| ~3:45pm | **Bridalveil Fall** — park in the Bridalveil lot on Wawona Rd | 30–45 min |
+| ~4:30pm | Drive to Upper Pines / check in | 15 min |
+| ~5:00pm | **El Capitan Meadow** — pull over, look up for climbers (bring binoculars) | 20 min |
+| ~5:30pm | **Cook's Meadow** — Half Dome reflection in the Merced River | 20 min |
+| ~6:30pm | Van cooking dinner at camp | — |
 
-### Yosemite Valley in Late April ⭐⭐
-Late April is one of the best times to visit: waterfalls at absolute peak due to snowmelt, before summer crowds arrive.
-
-**This afternoon:**
-- **Bridalveil Fall** — 0.5 miles RT from the parking area. The fall may be so powerful you get soaked. Go for it.
-- **Valley Loop Trail** — flat, 13-mile paved loop along the valley floor. Walk or rent bikes from Yosemite Valley Lodge. Easy way to see the whole valley.
-- **El Capitan Meadow** — pull over and look up. Climbers are often visible (bring binoculars).
-- **Cook's Meadow** — the classic Half Dome reflection in the river.
-
-### Camp: Upper Pines Campground (or alternative)
-- **Upper Pines** (238 sites) — the main vehicle-accessible valley campground. Open from early April. No hookups. Steps from trailheads.
-- 🔴 **Reservation status:** Almost certainly fully booked. Opened Nov 15, 2025. Check recreation.gov daily for cancellations and set an alert — cancellations do happen. Also check the **Yosemite Conservancy Campsite Guaranteed program** (yosemite.org) which provides guaranteed sites for a fee.
-- **Alternative if Upper Pines unavailable:** Camp near **Groveland, CA** (30 min west of the Big Oak Flat entrance) — Yosemite Pines RV Resort & Campground or AJ's RV Campground have tent/van sites. Less ideal but still allows full days in the valley.
-
-**GF dining in Yosemite:**
-- **Village Store** — packaged GF foods, produce, basics. Best option for a Celiac-safe meal.
-- **Valley Visitor Village** food options have limited GF; Van cooking is the safest bet.
-- **The Ahwahnee Dining Room** — the park's grand hotel restaurant. Call ahead; they can accommodate Celiac with notice. Expensive but a special meal. Reservation required: 209-372-1489.
+**Stop notes:**
+- **Tioga Pass (CA-120 east) is CLOSED.** Do not attempt the eastern approach via Lee Vining. CA-41 via the Wawona/South Entrance is the correct route — open year-round.
+- **CA-58 Tehachapi crossing:** Spectacular drive through the Tehachapi Mountains with thousands of wind turbines. No stop needed, but keep eyes up — the Tehachapi Pass area at ~4,000 ft is genuinely beautiful.
+- **Tunnel View:** The moment you exit the Wawona Tunnel, the entire Yosemite Valley opens in front of you — El Capitan left, Half Dome center, Bridalveil Fall right. This is the most iconic view in American national parks. Large pull-out with parking on both sides of the road immediately outside the tunnel. Allow 20 minutes.
+- **Bridalveil Fall:** 0.5 miles RT, paved gentle trail from the parking lot. In late April at peak snowmelt, the fall is at full roar — expect heavy mist and soaking spray as you approach the base. Bring a rain jacket. The parking lot fills fast; arrive by 9am or after 4pm if possible on a return visit. You're arriving late afternoon — should be manageable.
+- **No Yosemite entry reservation required in 2026.** NPS confirmed no timed-entry system this year. America the Beautiful pass covers entry. Just drive in.
+- **GF dining in Yosemite:** Van cooking is the safest approach. The Village Store (Yosemite Valley Village) stocks packaged GF foods, produce, and basics. **The Ahwahnee Dining Room** has a GF menu and trained staff — call ahead to flag Celiac (not just "GF preference"): (209) 372-1490. Dinner reservations required; it's expensive but a genuine special meal. Mixed reviews on celiac awareness — call first, speak to a manager, and confirm dedicated prep.
 
 ---
 
-## Day 21 — Apr 26: Full Day Yosemite Valley
-
+### Day 21 — Apr 26: Full Day Yosemite Valley
 **Stay:** Upper Pines (2nd night)
+**Depart camp:** 7:30am for Mist Trail — start early to beat crowds and get morning light on the falls
 
-### Morning: Mist Trail to Vernal Fall ⭐
-The best moderate hike in the valley, and spectacular in late April when Vernal Fall is thundering.
-- **To Vernal Fall Footbridge:** 1.6 miles RT, easy. Massive waterfall visible up close, mist in the air.
-- **To Top of Vernal Fall (Mist Trail):** 3 miles RT, moderate-strenuous. Steep granite steps, soaking wet from the mist — bring a rain jacket. Worth every step. The view from the top of the 317-ft fall is stunning.
-- **Do NOT attempt Nevada Fall** if energy is limited — that extends the hike significantly and adds significant elevation gain.
-- Start by 8am to beat crowds and get the best light on the fall.
+| Time | Activity | Duration |
+|------|----------|----------|
+| 7:00am | Pack trail lunch and rain gear at camp | 30 min |
+| 7:30am | Walk or take Valley shuttle (stop 16) to **Happy Isles Trailhead** | 15 min |
+| 7:45am | **Mist Trail — to Vernal Fall Footbridge** (0.8 mi, ~400 ft gain) | 45 min |
+| 8:30am | **Vernal Fall Footbridge** — view the 317-ft fall head-on; mist fills the air | 15 min |
+| 8:45am | **Continue up Mist Trail steps to top of Vernal Fall** (0.5 mi, steep granite steps) | 45–60 min |
+| ~9:45am | **Top of Vernal Fall** — rest, photos, views down the valley | 30 min |
+| ~10:15am | Descend via John Muir Trail (less wet than Mist Trail going down) | 45 min |
+| ~11:00am | Return to valley floor; change dry clothes at camp if needed | — |
+| ~11:30am | Walk to **Village Store** — pick up lunch items | 20 min |
+| ~12:00pm | Lunch at camp or Cook's Meadow | 45 min |
+| ~1:00pm | **Mirror Lake Loop** — shuttle to stop 17, then 4.5-mile flat loop | 2–2.5 hrs |
+| ~3:30pm | **Valley View** pullout — El Capitan reflected in the Merced River | 20 min |
+| ~4:00pm | Optional: **Mariposa Grove** (25 mi south on CA-41, ~40 min each way) — see note | 2.5–3 hrs RT |
+| OR ~4:00pm | Relax at camp, evening walk in **Cook's Meadow** | — |
+| ~6:30pm | Van cooking dinner at camp | — |
+| ~7:30pm | Evening stroll — **Sentinel Bridge** at dusk for Half Dome reflection | 30 min |
 
-### Afternoon
-- **Mirror Lake Loop** — 5-mile flat loop. In late April, Mirror Lake may be full (not yet dried up) and the Half Dome reflection is incredible. Easy walk or bike.
-- **Valley View** — easy pullout near the western valley end, classic El Capitan + river view.
-- **Happy Isles** — the trailhead area at the east end of the valley. Good for a riverside walk even if not hiking further.
-
-### Optional: Mariposa Grove of Giant Sequoias
-25 miles south of the valley via CA-41 — the largest grove of giant sequoias in Yosemite. 2.5-mile walk through the trees including the Grizzly Giant (2,700 years old). Requires a free shuttle or timed parking reservation from Wawona. A completely different experience from the redwoods you saw at the beginning of the trip — and worth it.
-
-### Celiac dining reminder
-Van cooking covers dinner. For lunch on the trail: pack food from the Village Store or bring from camp.
-
----
-
-## Day 22 — Apr 27: Yosemite → Crater Lake
-
-**Drive:** ~480 miles / ~7.5 hours via CA-120 Big Oak Flat → CA-120 west → I-5 → OR-138
-
-### Route
-- **Yosemite Valley → Big Oak Flat (CA-120 west):** Exit via the Big Oak Flat/Arch Rock entrance — this is the year-round western exit.
-- **CA-120 → CA-99 north → Sacramento → I-5 north:** Standard highway drive through the Central Valley and into Oregon.
-- **I-5 north → Roseburg, OR → OR-138 east:** This is the northern approach to Crater Lake via the scenic Umpqua River canyon. OR-138 is genuinely beautiful — old-growth Douglas fir, waterfalls, the North Umpqua River running alongside the road.
-- **OR-138 → Crater Lake (North Entrance area):** The road may or may not be open to the north entrance in late April depending on snow. If the north entrance road is closed, continue past Diamond Lake and approach from the south via OR-230 → OR-62.
-
-**Note:** OR-138 passes Diamond Lake (~15 miles north of Crater Lake) — a natural stopping point before the final push into the park area tomorrow morning.
-
-### Camp: Night 22 Options (Diamond Lake is likely closed — see below)
-
-> ⚠️ **Diamond Lake Campground typically opens mid-June** — plan on it being closed April 27. The most reliable confirmed-open options are Susan Creek and Crater Lake RV Park.
-
-- **Susan Creek Campground (BLM)** ⭐ — along the North Umpqua River on OR-138, near Idleyld Park (~50 mi west of Diamond Lake). Opens April 22, fully reservable on [recreation.gov](https://www.recreation.gov). ~$20/night, 29 sites, flush restrooms, drinking water, van-friendly. You'll drive ~1 hr east on OR-138 the morning of Apr 28 to reach Crater Lake's south entrance via OR-62.
-- **Crater Lake RV Park** — Prospect, OR, on OR-62, 24 mi from Crater Lake's south entrance. Open year-round. ~$30–45/night. Call (541) 560-3399 or [craterlakerv.com](https://craterlakerv.com). Perfectly positioned for the morning south-entrance visit.
-- **Diamond Lake Campground** — [recreation.gov](https://www.recreation.gov) — if somehow open (e.g., 2026 early opening): beautiful alpine lake, 238 sites. Call Diamond Lake Ranger District (541) 498-2531 to verify before relying on this.
-
-**GF dining en route:**
-- **Sacramento** is the natural fuel/lunch stop. Lots of options; grab something from a natural grocery (Sacramento has multiple Whole Foods and co-ops).
+**Stop notes:**
+- **Mist Trail to top of Vernal Fall:** 3 miles RT, moderate-strenuous. ~1,000 ft total elevation gain. The upper section is 600+ steep granite steps, exposed and soaking wet from spray in late April — this is peak flow. Bring a rain jacket (you WILL get drenched), waterproof shoes, and trekking poles if available. Start by 7:30–8am to beat crowds — by 10am the trail is packed. **Do not extend to Nevada Fall** unless you have strong legs and full energy remaining.
+- **Mirror Lake Loop:** 4.5-mile loop, essentially flat. In late April the lake is at maximum fill from snowmelt — the reflection of Half Dome and Tenaya Canyon walls is extraordinary. Take the Valley shuttle (stop 17) or bike from camp (3 miles). ⚠️ The south side of the loop can have icy/snowy patches in early April; by late April this is usually clear but bring layers.
+- **Mariposa Grove (optional):** 25 miles south on CA-41. The largest giant sequoia grove in Yosemite — includes the Grizzly Giant (~2,700 years old) and California Tunnel Tree. Free shuttle from the Welcome Plaza parking lot (shuttle starts no earlier than April 15 — confirm it's running for your date at nps.gov/yose). The parking lot road is closed to private vehicles; you must park at the Welcome Plaza and shuttle in. Allow 2.5 hours for the grove plus 40-min drive each way. This is a full commitment — skip if the Mist Trail was exhausting. It's a genuinely different experience from the coastal redwoods at the start of the trip.
+- **GF lunch:** Pack from the Village Store the evening before or morning of. No reliable Celiac-safe food service at trailheads or Mirror Lake.
 
 ---
 
-## Day 23 — Apr 28: Crater Lake → Seattle (Home)
+### Day 22 — Apr 27: Yosemite → Near Crater Lake (Susan Creek CG)
+**Drive:** ~480 miles / ~7.5 hours via CA-120 Big Oak Flat → CA-99 → I-5 → OR-138
+**Depart by:** 7:00am — this is the longest driving day of the return leg; early start is essential
+**Arrive camp:** ~5:30–6:00pm
 
-**Drive:** ~465 miles / ~7 hours via I-5 north
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 7:00am | Depart Upper Pines via **Big Oak Flat Road (CA-120 west)** — year-round western exit | — |
+| ~7:30am | Exit Yosemite at Big Oak Flat Entrance | — |
+| ~7:45am | **Groveland, CA** — coffee/fuel stop on CA-120 (Buck Meadows area) | 15 min |
+| ~8:30am | Join **CA-99 north** at Manteca | — |
+| ~10:00am | **Sacramento** — fuel + lunch stop; Whole Foods (multiple locations), natural grocery options | 40 min |
+| ~11:00am | **I-5 north** toward Oregon | — |
+| ~12:30pm | **Red Bluff, CA** — optional fuel stop if needed | 10 min |
+| ~2:00pm | Cross into Oregon — **Ashland, OR** on I-5; good natural grocery stop (Ashland Food Co-op, 237 N 1st St) if resupply needed | 20 min |
+| ~3:00pm | **Roseburg, OR** — exit I-5, head east on **OR-138** | — |
+| ~3:15pm | OR-138 east along the **North Umpqua River** — scenic canyon drive through old-growth Douglas fir | (driving) |
+| ~4:00pm | **Watson Falls pullout** (OR-138) — one of Oregon's tallest waterfalls, 272 ft; short 0.5 mi hike if energy allows | 20–30 min |
+| ~5:30pm | **Susan Creek Campground** — check in, set up | arrived |
 
-### Crater Lake in the Morning ⭐
-Even in April with the Rim Drive closed and campgrounds shut, the lake itself is extraordinary. The south entrance road to **Rim Village** is open year-round.
+**Stop notes:**
+- **CA-120 Big Oak Flat exit:** Open year-round (this is the western exit, not Tioga Pass). Easy 30-minute drive from the valley. Confirmed open April 2026.
+- **Sacramento lunch:** The only reliable Celiac-safe urban stop on this drive. Whole Foods (multiple locations) or Sacramento Natural Foods Co-op (1900 Arden Way) for GF deli items. Plan to eat and resupply for the drive into Oregon.
+- **OR-138 ("Highway of Waterfalls"):** After Roseburg, the highway follows the North Umpqua Wild and Scenic River through a gorgeous old-growth canyon. Genuinely scenic — a nice reward after hours of I-5. Keep eyes up for Watson Falls sign (~60 miles east of Roseburg).
+- **Watson Falls:** 0.5-mile trail (one-way) through old-growth forest to the base of a 272-ft waterfall. Oregon's second-tallest. If you have energy left after 8 hours on the road, it's worth 30 minutes. Skip if exhausted — Susan Creek is only another 30 minutes east.
+- **Susan Creek Campground:** BLM, North Umpqua River corridor, near Idleyld Park. Opens mid-April (confirmed open Apr 27). 29 sites, all reservable on [recreation.gov](https://www.recreation.gov). Flush restrooms, drinking water, van-friendly pull-through sites available. Beautiful riverside setting. From here, Crater Lake's south entrance (Annie Springs) is ~2 hours east via OR-138 → OR-230 → OR-62.
+- **GF dining en route:** No reliable Celiac-safe restaurants in the OR-138 corridor. Sacramento is your last chance for a proper GF meal. Van cooking at Susan Creek for dinner.
 
-- **Drive to Rim Village** — the lake comes into view as you crest the rim. The water is an almost unreal shade of blue — one of the clearest and deepest lakes in the world.
-- **Rim Village overlook** — the view from the crater rim: Wizard Island rising from the center of the lake, the caldera walls dropping to the water. Snow everywhere in April which makes the blue more intense.
-- **Sinnott Memorial Overlook** — a small observation deck just below Rim Village with a direct view down into the caldera. 5-min walk.
-- Allow 1.5–2 hours here. The drive in and back out is worth it even for just this.
+---
 
-**Drive: Crater Lake → Seattle**
-- OR-62 south → I-5 north at Medford → I-5 north through Portland → I-5 north → Seattle
-- OR-138 west → I-5 north at Roseburg (if approaching from Diamond Lake)
-- ~465 miles, ~7 hours. Aim to leave Crater Lake by 9–10am to be home by 4–5pm.
+### Day 23 — Apr 28: Crater Lake → Seattle (Home)
+**Drive:** ~465 miles / ~7.5 hours total (2 hrs to Crater Lake, then ~5.5 hrs Crater Lake → Seattle)
+**Depart camp:** 7:30am — Crater Lake visit is on the way; home by 5–6pm
+**Arrive home:** ~5:30–6:00pm
 
-**Final GF lunch stop:** Portland is ~3 hours south of Seattle on I-5. Worth a 30–45 min stop if you want a real meal before home.
-- **Kim Jong Smokehouse** (Portland) ✅ — Korean BBQ, naturally GF-friendly, great smoked meats
-- **Luce** (Portland) ✅ — Italian-inspired with strong GF menu
+| Time | Stop/Activity | Duration |
+|------|--------------|----------|
+| 7:30am | Depart Susan Creek CG east on **OR-138** | — |
+| ~8:30am | OR-138 → **OR-230 south** toward Crater Lake | — |
+| ~9:00am | OR-230 → **OR-62 north** → Annie Springs/South Entrance Crater Lake NP | — |
+| ~9:30am | Enter Crater Lake NP — America the Beautiful pass | — |
+| ~9:45am | **Steel Visitor Center** — short film, exhibits (opens 10am in April, wait in lot if early) | 20 min |
+| ~10:15am | Drive Munson Valley Rd north to **Rim Village** (~4 miles, ~15 min) | — |
+| ~10:30am | **Rim Village overlook** — first view of the lake | 20 min |
+| ~10:50am | **Sinnott Memorial Overlook** — walk down to the observation deck below Rim Village | 15 min |
+| ~11:15am | Drive back down to south entrance | 15 min |
+| ~11:30am | Exit park, head west on **OR-62 → I-5 north at Medford** | — |
+| ~12:15pm | **Medford, OR** — fuel stop | 10 min |
+| ~1:30pm | **Eugene, OR** — optional lunch stop | 30–40 min |
+| ~3:00pm | **Portland, OR** — lunch if not stopped in Eugene; GF options below | 30–45 min |
+| ~4:00pm | **I-5 north** toward Seattle | — |
+| ~5:30pm | **Home — Seattle** | arrived |
+
+**Stop notes:**
+- **Drive from Susan Creek to Crater Lake south entrance:** ~90 miles / ~2 hours via OR-138 → OR-230 → OR-62. Straightforward. Leave by 7:30am for a 9:30am arrival that gives you 2 hours at the lake before the mid-morning drive north.
+- **Crater Lake in April — what's accessible:** The South Entrance (Annie Springs) and the road to Rim Village are open year-round. The Rim Drive (33-mile loop) is **almost certainly closed in April** — plowing begins after the park's 44 ft average annual snowfall, and the full Rim Drive rarely opens before July. What you get: the Rim Village viewpoint, the Sinnott Memorial Overlook, and the Steel Visitor Center. That's enough — the view from Rim Village of Crater Lake's electric blue water with snow everywhere and Wizard Island rising from the center is genuinely extraordinary, even without the full Rim Drive.
+- **Steel Visitor Center hours in April:** 10am–4pm. If you arrive before 10am (you likely will), walk the area around Rim Village and the overlook — they're accessible regardless of visitor center hours. The center has good exhibits on the volcanic history if you want the 20-minute deep dive.
+- **Sinnott Memorial Overlook:** A short walk below Rim Village with a direct view down into the caldera. Best photo angle in the park. 5-min walk from the parking area.
+- **Portland GF lunch:** Portland has strong dedicated GF options — worth a 35-minute stop if you're hungry rather than eating in the van.
+  - **Prasad** ✅ CELIAC-AWARE — 925 NW Davis St (Pearl District, near I-405). Organic plant-based cafe, strong GF protocols, community-rated as one of Portland's most Celiac-safe spots. Lunch until 3pm.
+  - **Pacific Pie Co.** ✅ CELIAC-AWARE — 1520 SE 7th Ave. GF savory pies clearly marked; dedicated fryer and strong staff training. Convenient off I-84.
+  - **Natural grocers/co-ops** are always reliable: New Seasons Market (multiple locations) or Whole Foods (Lloyd District, off I-84) for a quick deli GF meal without table-service wait time.
+- **⚠️ Kim Jong Smokehouse is permanently closed** (as of 2025) — do not plan on this stop. Use Prasad or Pacific Pie Co. instead.
 
 ---
 
