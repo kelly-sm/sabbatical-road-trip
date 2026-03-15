@@ -9,7 +9,7 @@
 
 | # | Date | Sleep | Drive to Get There | Reservation | Notes |
 |---|------|-------|--------------------|-------------|-------|
-| 1 | Apr 6 | **Cape Lookout SP or Beverly Beach SP** — Oregon Coast | From Seattle: ~175 mi / ~3.5 hrs | 🔲 oregonstateparks.org | Cannon Beach + Tillamook Creamery stops en route. First night — easy drive. |
+| 1 | Apr 6 | **Beverly Beach SP** — Oregon Coast | From Seattle: ~175 mi / ~3.5 hrs | 🔲 oregonstateparks.reserveamerica.com | ⚠️ Cape Lookout SP closed April 2026 — Beverly Beach is the plan. Cannon Beach (low tide + puffins) + Tillamook Creamery stops en route. Depart Seattle by 8am. |
 | 2 | Apr 7 | **Gold Bluffs Beach** — Prairie Creek Redwoods SP, CA | ~320 mi / ~5.5 hrs | 🔲 reservecalifornia.com 🔴 | Black sand beach, elk wander through camp. Arrive before dark — Davison Road is unpaved. Sea Lion Caves + Oregon Dunes en route. |
 | 3 | Apr 8 | **Gold Bluffs Beach** — 2nd night | Stay | — | Full day in Redwoods: Fern Canyon, Newton B. Drury Scenic Parkway, elk viewing. |
 | 4 | Apr 9 | **Samuel P. Taylor SP** — Marin, CA | ~325 mi / ~5 hrs | 🔲 reservecalifornia.com 🟡 | Redwood forest camp, 45 min from SF. Via Avenue of the Giants + Bodega Bay (Hog Island Oysters). |
@@ -30,7 +30,7 @@
 | 19 | Apr 24 | **Valley of Fire State Park** — Atlatl Rock or Arch Rock Campground, NV | ~440 mi / ~6 hrs | 🔲 reserveamerica.com 🟡 | Via I-15 south through St. George. White Domes hike, Fire Wave, petroglyphs. Sunset on the red formations. |
 | 20 | Apr 25 | **Upper Pines Campground** — Yosemite Valley, CA | ~420 mi / ~6.5 hrs | 🔲 recreation.gov 🔴 (check cancellations) | Via CA-41 south entrance (Tioga Pass closed). Tunnel View arrival moment. Bridalveil Fall, Valley Loop. |
 | 21 | Apr 26 | **Upper Pines Campground** — Yosemite Valley, 2nd night | Stay | — | Full day: Mist Trail to top of Vernal Fall (peak flow!), Mirror Lake Loop, Mariposa Grove option. |
-| 22 | Apr 27 | **Diamond Lake Campground or Umpqua NF** — near Crater Lake, OR | ~480 mi / ~7.5 hrs | 🔲 reservenorthwest.com 🟡 | Via CA-120 Big Oak Flat → I-5 → OR-138. In-park camping closed in April — camp outside. |
+| 22 | Apr 27 | **Susan Creek CG (BLM) or Crater Lake RV Park** — North Umpqua River / Prospect, OR | ~480 mi / ~7.5 hrs | 🔲 recreation.gov (Susan Creek) 🟡 ⚠️ Diamond Lake closed until mid-June | Via CA-120 Big Oak Flat → I-5 → OR-138. In-park camping closed in April — camp outside. Susan Creek opens Apr 22, reservable, on OR-138. Crater Lake RV Park (Prospect) is year-round fallback on OR-62 approach. |
 | — | Apr 28 | **Home — Seattle** | ~465 mi / ~7 hrs | — | Morning at Crater Lake Rim Village (lake view worth the detour). Home by late afternoon. |
 
 ---
@@ -83,6 +83,6 @@ Apr 23 ████ Dead Horse Point / Moab BLM
 Apr 24 ████ Valley of Fire SP, NV
 Apr 25 ████ Yosemite Valley (Upper Pines)
 Apr 26 ████ Yosemite Valley (Upper Pines)
-Apr 27 ████ Near Crater Lake, OR (Diamond Lake)
+Apr 27 ████ Near Crater Lake, OR (Susan Creek BLM or Crater Lake RV Park — Diamond Lake closed until June)
 Apr 28 ▶▶▶▶ Home — Seattle
 ```

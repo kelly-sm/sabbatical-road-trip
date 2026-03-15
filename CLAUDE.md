@@ -9,7 +9,7 @@ Road trip planning repository for a 3-week camper van trip (April 6–26, 2026):
 ## Travelers & Vehicle
 
 - Two people (couple)
-- Converted Ford Transit van: self-contained with solar, water system, sink, refrigerator, propane stove — no hookups needed, can do dispersed BLM camping
+- Converted Ford Transit van: self-contained with solar, water system, sink, refrigerator, propane stove — no hookups needed, can do dispersed BLM camping. 4WD capable.
 - Style: scenic drives, moderate hikes, beautiful van camping spots with great views
 - Budget: flexible, willing to pay for quality campsites and dining
 - **Dietary restriction: one traveler has Celiac disease** — strictly gluten-free, not just a preference. Cross-contamination matters.
