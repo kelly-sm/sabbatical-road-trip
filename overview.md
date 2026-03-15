@@ -2,7 +2,7 @@
 
 ## Trip at a Glance
 
-- **Dates:** April 6 – April 26, 2026 (~3 weeks, 21 days)
+- **Dates:** April 6 – April 28, 2026 (~3.5 weeks, 23 days)
 - **Route:** Seattle → Oregon Coast → California Coast → Los Angeles → Grand Canyon → Utah → Seattle
 - **Vehicle:** Converted Ford Transit van (self-contained: solar, water system, sink, refrigerator, propane stove)
 - **Travelers:** Two people (couple)
@@ -26,7 +26,7 @@ For a full night-by-night breakdown with drive times and reservation status, see
 | 1. California Coast | Apr 6–16 | 10 | Oregon Coast, Redwoods, SF/Marin, Monterey, Big Sur, LA, Joshua Tree |
 | 2. Grand Canyon | Apr 17–19 | 2 | South Rim |
 | 3. Utah | Apr 19–24 | 5 | Zion, Bryce Canyon, Moab/Arches area |
-| 4. Return to Seattle | Apr 24–26 | 2 | Drive north through Nevada/Oregon or I-84 |
+| 4. Return to Seattle | Apr 24–28 | 4 | Valley of Fire NV, Yosemite Valley, Crater Lake, home |
 
 ---
 
@@ -69,5 +69,5 @@ Full tracker with status, confirmation numbers, and booking links: **see [reserv
 | Leg 1: California Coast | ✅ Done — see legs/01-california-coast.md |
 | Leg 2: Grand Canyon | ✅ Done — see legs/02-grand-canyon.md |
 | Leg 3: Utah | ✅ Done — see legs/03-utah.md |
-| Leg 4: Return to Seattle | 🔲 Not started |
+| Leg 4: Return to Seattle | ✅ Done — see legs/04-return.md |
 | Reservations tracker | ✅ Done — see reservations.md |
