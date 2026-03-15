@@ -30,6 +30,14 @@
 
 ---
 
+## 🔴 Urgent — Return Leg
+
+| Site | Night(s) | Platform | Status | Confirmation # | Notes |
+|------|----------|----------|--------|----------------|-------|
+| **Upper Pines Campground** (Yosemite Valley) | Apr 25–26 | [recreation.gov](https://www.recreation.gov/camping/campgrounds/232447) | 🔲 | — | Window opened Nov 15, 2025 — almost certainly full. Check cancellations daily, set alert. Also try [Yosemite Conservancy Campsite Guaranteed](https://yosemite.org/yosemite-campsite-guaranteed/). No hookups. Tioga Pass is closed — enter via CA-41 south (Wawona) entrance. |
+
+---
+
 ## 🟡 Medium Priority — Book Soon
 
 | Site | Night(s) | Platform | Status | Confirmation # | Notes |
@@ -38,6 +46,11 @@
 | **Leo Carrillo State Beach** (Malibu/LA) | Apr 14–15 | [reservecalifornia.com](https://www.reservecalifornia.com) | 🔲 | — | Beachfront camping 28 miles north of Santa Monica. |
 | **Sunset Campground** (Bryce Canyon NP) | Apr 21 | [recreation.gov](https://www.recreation.gov) | 🔲 | — | Reservable alternative to FCFS North Campground. If unavailable, arrive by 2pm for North Campground Loop A (year-round FCFS). |
 | **Muir Woods Timed Entry Permit** | Apr 10 | [gomuirwoods.com](https://www.gomuirwoods.com) | 🔲 | — | Not a campsite — required day-use entry permit. Sells out weeks in advance. |
+
+---
+
+| **Valley of Fire SP** — Atlatl Rock or Arch Rock Campground, NV | Apr 24 | [reserveamerica.com](https://www.reserveamerica.com) | 🔲 | — | Opens 30 days in advance (~Mar 25). Book now. Electric hookups at Atlatl Rock (not needed but grab if available for shade/position). |
+| **Diamond Lake Campground** (Umpqua NF, OR) | Apr 27 | [reservenorthwest.com](https://www.reservenorthwest.com) | 🔲 | — | Near Crater Lake north entrance. Verify open in late April before booking. Backup: dispersed Umpqua NF or camp near Prospect/Fort Klamath south of park. |
 
 ---
 
