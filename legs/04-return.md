@@ -6,7 +6,8 @@
 ## ⚠️ Key Facts & Watch-Outs
 
 - **Tioga Pass (CA-120 east / US-395 eastern approach to Yosemite) is CLOSED in April.** Plowing begins around April 15 and takes 1–2 months — the pass won't open until Memorial Day weekend at the earliest. Do not attempt the eastern approach via Lee Vining. Enter Yosemite from the south via CA-41 (Wawona entrance) or from the west via CA-140 (All-Weather Highway). Both are open year-round.
-- **Crater Lake campgrounds are closed in April.** Mazama Village Campground, Rim Village, and all in-park lodging are shut for the season. The Rim Drive (33-mile loop) is also closed. What IS open: the southern entrance road to Rim Village, the lake overlook itself, and the Steel Visitor Center. Camp outside the park the night of Apr 27.
+- **Crater Lake campgrounds are closed in April.** Mazama Village Campground opens May 22, 2026. The Rim Drive is also closed. What IS open: the southern entrance road to Rim Village, the lake overlook itself, and the Steel Visitor Center. Camp outside the park the night of Apr 27.
+- ⚠️ **Diamond Lake Campground typically opens mid-June** — it will almost certainly be closed April 27. See backup options below. **Susan Creek Campground (BLM, opens April 22) or Crater Lake RV Park (Prospect, year-round) are the real primary options for Night 22.**
 - **Yosemite Valley campsite reservations:** Upper Pines reservations opened November 15, 2025 (5 months in advance) and April dates are almost certainly fully booked. Check recreation.gov immediately for cancellations, set alerts, and consider the Yosemite Conservancy's "Campsite Guaranteed" program. Alternatively, camp just outside the park near Groveland, CA (Big Oak Flat entrance side).
 - **No Yosemite day-use reservation required in 2026** — NPS announced no entry reservation system. Just drive in.
 - **Valley of Fire State Park (NV):** A legitimate destination in its own right, not just a transit stop. Reserve on [nvstateparks.reserveamerica.com](https://www.reserveamerica.com).
@@ -126,11 +127,13 @@ Van cooking covers dinner. For lunch on the trail: pack food from the Village St
 
 **Note:** OR-138 passes Diamond Lake (~15 miles north of Crater Lake) — a natural stopping point before the final push into the park area tomorrow morning.
 
-### Camp: Diamond Lake Campground ⭐
-- On OR-138, just north of Crater Lake. Beautiful alpine lake framed by Mt. Thielsen and surrounded by old-growth Douglas fir — a genuinely lovely overnight in its own right.
-- 🟡 Reserve on [reservenorthwest.com](https://www.reservenorthwest.com) — verify it's open in late April before booking.
-- **Backup:** Dispersed camping in Umpqua National Forest off OR-138. Self-contained van makes this easy — pull off on any NF road with a flat spot.
-- From Diamond Lake it's a 20-min drive south on OR-230 to reach Crater Lake's north entrance area (or approach from the south via OR-62 if the north road is still gated).
+### Camp: Night 22 Options (Diamond Lake is likely closed — see below)
+
+> ⚠️ **Diamond Lake Campground typically opens mid-June** — plan on it being closed April 27. The most reliable confirmed-open options are Susan Creek and Crater Lake RV Park.
+
+- **Susan Creek Campground (BLM)** ⭐ — along the North Umpqua River on OR-138, near Idleyld Park (~50 mi west of Diamond Lake). Opens April 22, fully reservable on [recreation.gov](https://www.recreation.gov). ~$20/night, 29 sites, flush restrooms, drinking water, van-friendly. You'll drive ~1 hr east on OR-138 the morning of Apr 28 to reach Crater Lake's south entrance via OR-62.
+- **Crater Lake RV Park** — Prospect, OR, on OR-62, 24 mi from Crater Lake's south entrance. Open year-round. ~$30–45/night. Call (541) 560-3399 or [craterlakerv.com](https://craterlakerv.com). Perfectly positioned for the morning south-entrance visit.
+- **Diamond Lake Campground** — [recreation.gov](https://www.recreation.gov) — if somehow open (e.g., 2026 early opening): beautiful alpine lake, 238 sites. Call Diamond Lake Ranger District (541) 498-2531 to verify before relying on this.
 
 **GF dining en route:**
 - **Sacramento** is the natural fuel/lunch stop. Lots of options; grab something from a natural grocery (Sacramento has multiple Whole Foods and co-ops).
@@ -157,6 +160,55 @@ Even in April with the Rim Drive closed and campgrounds shut, the lake itself is
 **Final GF lunch stop:** Portland is ~3 hours south of Seattle on I-5. Worth a 30–45 min stop if you want a real meal before home.
 - **Kim Jong Smokehouse** (Portland) ✅ — Korean BBQ, naturally GF-friendly, great smoked meats
 - **Luce** (Portland) ✅ — Italian-inspired with strong GF menu
+
+---
+
+## Campsite Backup Options
+
+> Priority guide: ⭐ PRIMARY (already planned) → 🔵 BACKUP 1 → 🔵 BACKUP 2 → 🟤 DISPERSED (last resort)
+> Backups web-researched and verified for April 2026 conditions, including seasonal opening dates.
+
+---
+
+### Night 19 — Apr 24: Valley of Fire State Park, NV
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **Atlatl Rock CG or Arch Rock CG** — Valley of Fire SP | [reserveamerica.com](https://www.reserveamerica.com) | ~$25 | Opens 30 days in advance (~Mar 25). Both year-round with water, flush toilets, fire rings. |
+| 🔵 BACKUP 1 | **Boulder Beach CG** — Lake Mead NRA (35 min SW via I-15/US-93, Boulder City) | [recreation.gov](https://www.recreation.gov/camping/campgrounds/10075120) | ~$20 | Year-round. Paved, large pull-through sites, no hookups. Flush restrooms. Covered by America the Beautiful pass (Lake Mead entry). Lakeside location. |
+| 🔵 BACKUP 2 | **Las Vegas Bay CG** — Lake Mead NRA (~30 min via North Shore Rd) | [recreation.gov](https://www.recreation.gov) | ~$20 | Year-round. Paved sites along North Shore Road. Same entry fee as Boulder Beach. More exposed but closer to Valley of Fire corridor. |
+| 🟤 DISPERSED | **Stewart's Point dispersed** — Lake Mead NRA, along North Shore Rd (~20 min from Valley of Fire) | No reservation | Free (America the Beautiful covers entry) | Pull-offs along North Shore Road. No facilities. ⚠️ Government Wash (formerly popular) was **permanently closed to vehicles August 2024** — do not use. Stewart's Point remains open. |
+
+---
+
+### Nights 20–21 — Apr 25–26: Yosemite Valley (2 nights)
+
+> ⚠️ All Valley campground reservations released on recreation.gov 5 months in advance (Nov 15, 2025 for Apr 25–26). These are almost certainly sold out. Monitor daily for cancellations; set alerts on [CampScanner](https://campscanner.io) or Campnab.
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **Upper Pines CG** — Yosemite Valley | [recreation.gov](https://www.recreation.gov/camping/campgrounds/232447) | ~$26 | 238 sites. Open year-round (closed Mar 30–Apr 9 for hazard trees — open Apr 25–26). Likely fully booked. |
+| 🔵 BACKUP 1 | **Lower Pines CG** — Yosemite Valley | [recreation.gov](https://www.recreation.gov/camping/campgrounds/232450) | ~$26 | 60 sites. Open ~April–October. Same valley location. Same competitive booking window — check alongside Upper Pines, different cancellation patterns sometimes appear. |
+| 🔵 BACKUP 2 | **North Pines CG** — Yosemite Valley | [recreation.gov](https://www.recreation.gov/camping/campgrounds/232449) | ~$36 | 81 sites. Open March–October. Note: sites 134–136 and 200–522 flood-closed Apr 27–Jun 30, 2026. Sites for Apr 25–26 in unaffected loops are available. |
+| 🔵 BACKUP 3 | **Hodgdon Meadow CG** — Yosemite NP, Big Oak Flat entrance (~25 mi from Valley) | [recreation.gov](https://www.recreation.gov/camping/campgrounds/232451) | ~$26 | **Open year-round.** Most realistic in-park fallback — significantly lower competition than valley sites. 40-min drive to the valley each day. No El Cap/Half Dome views from camp. |
+| 🔵 BACKUP 4 | **Yosemite Pines RV Resort** — 20450 Old State Hwy 120, Groveland, CA (~50 min from Valley) | [yosemitepinesrv.com](https://yosemitepinesrv.com) | ~$40–60 | Year-round, easy to book. Pool, showers, store. Not a scenic camping experience but availability is virtually guaranteed. Best outside-park option. |
+| 🟤 DISPERSED | **Hardin Flat Rd dispersed** — Stanislaus NF, off CA-120, 5 min from Big Oak Flat entrance | No reservation | Free | Available after April 16. Forest road suitable for vans — scout carefully, some pullouts are tight for a Transit. Call Groveland Ranger District first: (209) 962-7825. |
+
+> **Yosemite Conservancy note:** The [Yosemite Campsite Guaranteed program](https://yosemite.org/yosemite-campsite-guaranteed/) (yosemite.org) provides pre-arranged group campsites as part of guided day programs ($150–400+/person). Legitimate path to in-valley camping when the reservation system is sold out — check for April programs.
+
+---
+
+### Night 22 — Apr 27: Near Crater Lake, OR
+
+> ⚠️ **Diamond Lake Campground opens mid-June.** It will almost certainly be closed April 27. Treat Susan Creek as the real primary.
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ REAL PRIMARY | **Susan Creek CG** — BLM / North Umpqua River, near Idleyld Park, OR (on OR-138) | [recreation.gov](https://www.recreation.gov/camping/campgrounds/251351) | ~$20 | **Opens April 22** — confirmed open for April 27. 29 sites, flush restrooms, drinking water, reservable. Drive ~1 hr east on OR-138 the morning of Apr 28 to Crater Lake south entrance. Book now. |
+| 🔵 BACKUP 1 | **Crater Lake RV Park** — Prospect, OR (24 mi from Crater Lake south entrance on OR-62) | [craterlakerv.com](https://craterlakerv.com) | ~$30–45 | **Open year-round.** Paved sites, van-friendly. Perfectly positioned for morning south-entrance visit — no backtracking. Most reliable fallback. |
+| 🔵 BACKUP 2 | **Union Creek CG** — Rogue River-Siskiyou NF, OR-62 (~18 mi from south entrance) | [recreation.gov](https://www.recreation.gov/camping/campgrounds/119140) | ~$18–25 | Seasonal — lower elevation than Diamond Lake so may open late April. ⚠️ **Verify opening date before relying on this:** call High Cascades Ranger District (541) 560-3400. 74 sites, van-friendly, on the OR-62 approach. |
+| 🔵 BACKUP 3 (original plan) | **Diamond Lake CG** — Umpqua NF, 18 mi north of Crater Lake north entrance | [recreation.gov](https://www.recreation.gov/camping/campgrounds/231980) | ~$26–32 | ⚠️ Typically opens mid-June. Call Diamond Lake Ranger District (541) 498-2531 to confirm. Only viable if season opens unusually early in 2026. |
+| 🟤 DISPERSED | **Umpqua NF dispersed** — forest roads off OR-138, lower-elevation sections near North Umpqua River corridor | No reservation | Free | 2WD accessible at lower elevations (avoid roads above ~4,500 ft — lingering snow in late April). Self-contained van ideal. 14-day max stay; pack out all waste. Check [Campendium](https://www.campendium.com) for current user reports. |
 
 ---
 

@@ -10,6 +10,7 @@
 - **Zion shuttle:** Free, no reservation needed. Runs from the Visitor Center into Zion Canyon. In April the shuttle is the only way to access the canyon floor trailheads (private vehicles can't drive Zion Canyon Scenic Drive in season). Get on early — waits build after 9am.
 - **Zion Narrows in April:** Snowmelt can make the water high and cold. **Check conditions at the visitor center on arrival.** Neoprene bootie rentals available in Springdale (Zion Outfitter, Zion Adventure Company — ~$20/day). Worth it even if water is low.
 - **Watchman Campground vehicle restriction:** Non-electric loops (C, D, F) prohibit vehicles 19 ft and over. A Ford Transit (19'7"+ depending on wheelbase) **must book electric sites in A or B Loop.** Do not book tent-only or non-electric loops.
+- **Zion South Campground is CLOSED** for long-term rehabilitation — no confirmed 2026 reopening date. Do not use it as a backup option.
 - **Arches timed entry dropped for 2026:** Announced February 18, 2026. No reservation needed to enter — just show the America the Beautiful Pass at the gate. Devils Garden Campground and Fiery Furnace hike still require separate reservations.
 - **Bryce Canyon cold:** At 8,000 ft, average April low is 29°F with possible snow (average 8 inches in April). Snowstorms can close trails. Van camping is an advantage here — you're insulated and have propane. Bring extra layers.
 - **America the Beautiful Pass** covers entry to all parks on this leg. Buy before Grand Canyon if you haven't already.
@@ -218,7 +219,7 @@ Two options:
 1. **Dead Horse Point (2nd night)** — if you reserved 2 consecutive nights, you're set. Drive back out for the night.
 2. **BLM Dispersed near Moab** — free, no reservation. Good options:
    - **Yellow Circle Road** (11 miles south of Moab off US-191) — flat, accessible for a Transit van, open desert and red rock views.
-   - **Klondike Bluffs Road** (20 miles north) — wide desert views, quieter.
+   - **Klondike Bluffs area** (20 miles north) — ⚠️ **Update:** Free dispersed camping here no longer exists. The BLM formalized this area into **North Klondike Campground** (fee-based, $20/night FCFS, pay via recreation.gov QR code on-site). Mountain bike trail access, wide desert views.
    - ⚠️ Transit is 2WD — stick to the first few pullouts on any BLM road. These roads can be impassable after rain. Check conditions.
    - Within ~20 miles of Moab, camping must be in designated spots — BLM has a map at their Moab office (82 E Dogwood Ave).
 
@@ -254,6 +255,60 @@ Home well before dinner. Trip complete.
 | Dead Horse Point SP (Wingate or Kayenta) | Apr 22–23 | [reserveamerica.com](https://www.reserveamerica.com) | 🔴 Urgent | Books solid March–Nov; 4-month advance window |
 | Sunset Campground, Bryce Canyon | Apr 21 | [recreation.gov](https://www.recreation.gov) | 🟡 Medium | Or arrive early for North Campground FCFS |
 | Devils Garden Campground, Arches (optional) | — | [recreation.gov](https://www.recreation.gov) | 🟢 Optional | Only if you want to camp inside Arches |
+
+---
+
+## Campsite Backup Options
+
+> Priority guide: ⭐ PRIMARY (already planned) → 🔵 BACKUP 1 → 🔵 BACKUP 2 → 🟤 DISPERSED (last resort)
+> Backups web-researched and verified for April 2026.
+> ⚠️ Zion South Campground is **CLOSED** for 2026 rehabilitation — not a valid backup. ⚠️ Klondike Bluffs free dispersed camping no longer exists (now North Klondike CG, $20/night FCFS).
+
+---
+
+### Nights 14–15 — Apr 19–20: Zion National Park
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **Watchman CG** — Zion NP, electric A/B Loop ONLY | [recreation.gov](https://www.recreation.gov) | ~$30 | A/B electric loops required for 19ft+ vehicles. 6-month advance booking window opens ~Oct 19. |
+| 🔵 BACKUP 1 | **Zion Canyon Campground & RV Resort** — 479 Zion Park Blvd, Springdale (0.5 mi from park entrance, on the shuttle route) | [zioncamp.com](https://zioncamp.com) | ~$45–75 | Private campground. Pull-through sites, paved, no length restriction. Pool, camp store. Walking distance to Bit & Spur, Oscar's Cafe. No park-entry driving required — shuttle from camp. |
+| 🔵 BACKUP 2 | **Zion River Resort** — 551 E SR-9, Virgin, UT (~10 mi west of Springdale, 15–20 min) | [zionriverresort.com](https://www.zionriverresort.com) | ~$85–100 | Full-hookup resort on the Virgin River. Heated pool, hot tub. Virgin Park & Ride shuttle to Zion starts 2026. Less walkable to Springdale dining. |
+| 🟤 DISPERSED | **Hurricane Cliffs BLM** — Sheep Bridge Rd east of Hurricane, UT (~20–25 min from south entrance) | blm.gov | Free | 58 numbered sites; ~6 are accessible to large rigs/2WD. Most require high-clearance. Unpaved, washboarded. Avoid after rain. No amenities. True last resort. |
+
+---
+
+### Night 16 — Apr 21: Bryce Canyon
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **North Campground (Loop A)** — Bryce Canyon NP (FCFS) | Arrive by 2pm in April | ~$30 | Year-round, no length limit. |
+| ⭐ ALREADY LISTED | **Sunset Campground** — Bryce Canyon NP | [recreation.gov](https://www.recreation.gov) | ~$30 | Reservable Apr 15–Oct 31. 30-ft max vehicle length — Transit is well within. |
+| 🔵 BACKUP 1 | **Ruby's Inn RV Park & Campground** — Bryce Canyon City (~1 mi from park gate) | [app.fireflyreservations.com](https://app.fireflyreservations.com/reserve/property/RubysInnRVParkandCampground) | ~$47–55 | Open year-round. 200+ sites, pull-through, electric+water, paved. Laundry, showers, general store. Most practical paid backup to in-park options. |
+| 🔵 BACKUP 2 | **Kodachrome Basin SP** — Cannonville, UT (~25 min east off UT-12) | [utahstateparks.reserveamerica.com](https://utahstateparks.reserveamerica.com) | ~$25–35 | Open early March–Nov. Beautiful canyon spires, quiet, less crowded. Basin + Bryce View Campgrounds have no length restrictions for the Transit. (Avoid Arch CG sites — 25 ft max.) Still viable for a Bryce morning visit Apr 22 before the UT-12 drive. |
+| 🟤 DISPERSED | **Red Canyon CG** — Dixie NF, directly on UT-12 (~10 min from Bryce entrance) | FCFS | ~$30 | Pass it on the way to Bryce — zero detour. Red-rock hoodoos rivaling early Bryce. Showers ($2.50), vault toilets. Arrive early afternoon. |
+
+---
+
+### Night 17 — Apr 22: Dead Horse Point / Moab Area
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **Dead Horse Point SP** — Wingate or Kayenta CG | [reserveamerica.com](https://www.reserveamerica.com) | ~$35–45 | Electric hookups, flush toilets. 4-month advance booking. Canyon rim 5-min walk from camp. |
+| 🔵 BACKUP 1 | **Devils Garden CG** — Arches NP, 18 mi inside park | [recreation.gov](https://www.recreation.gov) | ~$30 | 51 sites. Fully reservable April–October, 6-month window. Water station on site. Waking up inside Arches = ideal for early Landscape Arch or Delicate Arch sunrise. ~30 min from Moab. Strong backup. |
+| 🔵 BACKUP 2 | **Willow Flat CG** — Canyonlands Island in the Sky (~10 min from Dead Horse Point Rd) | FCFS | ~$15 | 12 sites on canyon rim, no reservations. ⚠️ **Timing risk:** fills completely by 10am April–June. Arriving from Bryce via UT-12 puts you at Moab ~1pm — too late. Only viable if already in the area or arriving the night before. |
+| 🟤 DISPERSED | **Yellow Circle Rd BLM** — 11 mi south of Moab off US-191 | No reservation | Free | Flat, 2WD accessible. Stay within first 0.5–1 mi of US-191 (smoother terrain). Bring all water, pack out waste. |
+
+---
+
+### Night 18 — Apr 23: Dead Horse Point 2nd Night or BLM Moab
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **Dead Horse Point SP** (2nd night) | [reserveamerica.com](https://www.reserveamerica.com) | ~$35–45 | Same booking as Night 17. |
+| ⭐ ALREADY LISTED | **Yellow Circle Rd BLM** or **Klondike area** | Free / $20 | See note above | Klondike is now North Klondike CG, $20 FCFS. |
+| 🔵 BACKUP 1 | **Ken's Lake CG** — BLM, 4.5 mi south of Moab off La Sal Loop Rd | [recreation.gov](https://www.recreation.gov) | ~$20 | Loop A reservable (6-month window); Loop B FCFS. Small reservoir, La Sal Mountain views. Picnic tables, fire rings, vault toilets. No hookups. RVs to 40 ft. Significant upgrade over pure dispersed. |
+| 🔵 BACKUP 2 | **Sand Flats Recreation Area** — 2 mi east of Moab | FCFS individual sites; group reservable on [recreation.gov](https://www.recreation.gov) | ~$15 | 140 FCFS sites (most loops accommodate vans to 26 ft — check Alcove/Bobcat/Echo/Juniper loops). 5 minutes to Moab dining. Slickrock trailhead access from camp. Arrive morning to secure a site. |
+| 🟤 DISPERSED | **North Klondike CG** — BLM, 20 mi north of Moab off US-191 | FCFS via recreation.gov QR code on-site | ~$20 | Replaced former free dispersed area. Gravel pads, vault toilets, no water. Mountain bike trail access. |
 
 ---
 

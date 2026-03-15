@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git config:*)",
+      "WebSearch",
+      "Skill(commit-commands:commit-push-pr)",
+      "Bash(git checkout:*)",
+      "Skill(commit-commands:commit)",
+      "Bash(git push:*)"
+    ]
+  }
+}

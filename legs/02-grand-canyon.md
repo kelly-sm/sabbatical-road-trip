@@ -144,6 +144,41 @@ Continue north on US-89 through Kanab, UT — **better Celiac dining than you'd 
 
 ---
 
+## Campsite Backup Options
+
+> Priority guide: ⭐ PRIMARY (already planned) → 🔵 BACKUP 1 → 🔵 BACKUP 2 → 🟤 DISPERSED (last resort)
+> Backups web-researched and verified for April 2026.
+
+---
+
+### Nights 12–13 also depend on Night 11 (Joshua Tree) backups — see Leg 1 file for those options.
+
+---
+
+### Night 12 — Apr 17: Grand Canyon South Rim
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **Mather Campground** — South Rim | [recreation.gov](https://www.recreation.gov) | ~$18–25 | 327 sites, 1 mi from Canyon Village. No hookups. Reserve months ahead for April. |
+| 🔵 BACKUP 1 | **Trailer Village RV Park** — South Rim (adjacent to Mather) | [grandcanyonlodges.com](https://grandcanyonlodges.com) (Xanterra) | ~$65–85 | 120 full-hookup sites — you won't need hookups, but this is often available when Mather is sold out. Same shuttle stops, same park access. Pull-through sites, all sizes. Reserve simultaneously with Mather. |
+| 🔵 BACKUP 2 | **Tusayan-Montane CG (formerly Ten-X)** — Kaibab NF, 4 mi south of park entrance | [recreation.gov](https://www.recreation.gov/camping/campgrounds/234488) | ~$10 | ⚠️ **Typically opens May 1 — call to confirm April opening:** Tusayan Ranger District (928) 638-2443. If open, it's the best budget alternative with equivalent park access. Pull-through sites to 35 ft. You'd still pay park entry fee each day. |
+| 🟤 DISPERSED | **Kaibab NF dispersed** — forest roads ~2–3 mi south of Tusayan off US-64 | No reservation | Free | 2WD accessible, avoid after rain. 5–10 min from the park entrance. Check fire restrictions: [fs.usda.gov/kaibab](https://www.fs.usda.gov/kaibab). |
+
+> **Last resort only:** Grand Canyon Railway RV Park, Williams AZ (60 mi south) — book at [thetrain.com](https://www.thetrain.com/lodging/rv-park/), ~$26–52/night. Too far for a meaningful canyon day without a very early start.
+
+---
+
+### Night 13 — Apr 18: Grand Canyon East Rim / Desert View
+
+| Priority | Site | Platform | Cost | Notes |
+|----------|------|----------|------|-------|
+| ⭐ PRIMARY | **Desert View Campground** — East Rim, inside park | [recreation.gov](https://www.recreation.gov) | ~$18 | 50 sites. Opens April 11, 2026. Perfectly positioned for next-morning US-89 north departure to Zion. Reserve now. |
+| 🔵 BACKUP 1 | **Cameron Trading Post RV Park** — Cameron, AZ (30 mi from Desert View on US-89) | [camerontradingpost.com](https://camerontradingpost.com/grand-canyon-rv-park.html) | ~$49 | 30 pull-through sites on Navajo Nation at the US-89/AZ-64 junction. Restaurant, convenience store, laundromat on site. **Strategically useful:** already on US-89 north for the Zion drive — zero backtracking. This is a legitimate choice, not just a fallback. |
+| 🔵 BACKUP 2 | **Tusayan-Montane CG (Ten-X)** — Kaibab NF, 29 mi from Desert View | Same as Night 12 | ~$10 | ⚠️ Verify April opening (see Night 12 note). Less convenient for the east-rim area — 29 mi back to Desert View, then 29 mi back out — but within the park ecosystem. Better suited as Night 12 backup. |
+| 🟤 DISPERSED | **Kaibab NF Fire Road 310** — ~2 mi east of Grandview Point, turn right off AZ-64 | No reservation | Free | Drive ~1.5 mi until Kaibab NF boundary (marked). 2WD accessible, some established fire rings. Within 15 min of Desert View Watchtower. Pointed toward US-89 for the Utah drive. Check fire restrictions before arrival. |
+
+---
+
 ## Driving Summary
 
 | Segment | Miles | Drive Time |
